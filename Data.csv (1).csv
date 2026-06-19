@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,City,Restaurant,Popular_Food_Item,Discount_Percentage,Order_Date,Order_Value,Delivery_Time_Minutes,Rating,Payment_Method
+1001,C001,Customer_1,Erode,KFC,Chicken Bucket,10,2026-03-02,1214,43,4.2,Card
+1002,C002,Customer_2,Salem,KFC,Zinger Burger,0,2026-07-19,1086,53,4.6,UPI
+1003,C003,Customer_3,Madurai,Subway,Paneer Sub,25,2026-04-28,1410,21,4.9,UPI
+1004,C004,Customer_4,Salem,Dominos,Veg Extravaganza,20,2026-01-05,980,58,3.8,Card
+1005,C005,Customer_5,Salem,Subway,Chicken Sub,5,2026-08-13,1215,50,3.8,UPI
+1006,C006,Customer_6,Chennai,Subway,Paneer Sub,10,2026-01-12,1052,50,4.9,UPI
+1007,C007,Customer_7,Trichy,KFC,Hot Wings,10,2026-03-03,881,60,4.3,Card
+1008,C008,Customer_8,Trichy,Burger King,Whopper Burger,10,2026-05-26,1403,46,4.8,Cash
+1009,C009,Customer_9,Erode,Pizza Hut,Pepperoni Pizza,15,2026-05-05,1027,41,4.5,Card
+1010,C010,Customer_10,Trichy,Burger King,Chicken Whopper,25,2026-07-11,377,43,4.5,UPI
+1011,C011,Customer_11,Erode,KFC,Zinger Burger,10,2026-09-08,260,45,3.6,Cash
+1012,C012,Customer_12,Erode,Burger King,Chicken Whopper,15,2026-11-28,548,25,4.3,UPI
+1013,C013,Customer_13,Erode,KFC,Hot Wings,5,2026-07-27,1252,37,4.9,Cash
+1014,C014,Customer_14,Madurai,McDonalds,McChicken Burger,25,2026-10-08,1447,15,4.1,Cash
+1015,C015,Customer_15,Chennai,Burger King,Chicken Whopper,20,2026-04-16,1072,18,4.2,Card
+1016,C016,Customer_16,Erode,Burger King,Whopper Burger,20,2026-07-31,1193,37,4.1,UPI
+1017,C017,Customer_17,Erode,Burger King,Chicken Whopper,20,2026-06-19,1138,53,3.5,UPI
+1018,C018,Customer_18,Chennai,Subway,Chicken Sub,20,2026-04-03,387,50,4.7,Card
+1019,C019,Customer_19,Trichy,Dominos,Margherita Pizza,0,2026-01-09,1127,15,4.6,Card
+1020,C020,Customer_20,Coimbatore,KFC,Chicken Bucket,20,2026-04-05,905,33,3.6,UPI
+1021,C021,Customer_21,Erode,McDonalds,Big Mac Burger,25,2026-05-20,803,44,4.6,Card
+1022,C022,Customer_22,Salem,Pizza Hut,Pepperoni Pizza,10,2026-07-17,903,41,4.7,Card
+1023,C023,Customer_23,Coimbatore,Dominos,Veg Extravaganza,20,2026-04-18,1440,42,4.7,UPI
+1024,C024,Customer_24,Salem,KFC,Zinger Burger,5,2026-01-19,528,43,4.6,Cash
+1025,C025,Customer_25,Erode,Pizza Hut,Pepperoni Pizza,25,2026-12-22,1257,43,3.8,Cash
+1026,C026,Customer_26,Madurai,Dominos,Veg Extravaganza,20,2026-06-14,1492,42,3.6,Card
+1027,C027,Customer_27,Chennai,KFC,Chicken Bucket,10,2026-02-06,356,34,4.9,Card
+1028,C028,Customer_28,Chennai,Subway,Paneer Sub,20,2026-05-10,467,15,4.3,UPI
+1029,C029,Customer_29,Chennai,Burger King,Chicken Whopper,15,2026-03-29,1475,47,3.6,UPI
+1030,C030,Customer_30,Salem,McDonalds,Big Mac Burger,20,2026-12-12,1086,52,3.8,UPI
+1031,C031,Customer_31,Madurai,Subway,Paneer Sub,20,2026-09-13,235,35,4.4,Card
+1032,C032,Customer_32,Salem,McDonalds,Big Mac Burger,5,2026-06-17,1353,23,4.0,UPI
+1033,C033,Customer_33,Trichy,McDonalds,Big Mac Burger,15,2026-10-08,904,58,4.3,Cash
+1034,C034,Customer_34,Salem,KFC,Hot Wings,0,2026-02-13,472,25,3.7,Cash
+1035,C035,Customer_35,Coimbatore,KFC,Zinger Burger,20,2026-09-17,722,38,4.0,UPI
+1036,C036,Customer_36,Chennai,McDonalds,McVeggie,25,2026-09-08,477,52,4.3,UPI
+1037,C037,Customer_37,Salem,McDonalds,McChicken Burger,0,2026-07-14,501,23,4.0,Cash
+1038,C038,Customer_38,Madurai,Burger King,Whopper Burger,20,2026-10-09,658,51,3.6,Card
+1039,C039,Customer_39,Coimbatore,McDonalds,McVeggie,20,2026-02-28,1137,32,3.7,UPI
+1040,C040,Customer_40,Salem,McDonalds,McVeggie,25,2026-01-08,387,41,3.7,UPI
+1041,C041,Customer_41,Chennai,KFC,Hot Wings,15,2026-03-24,436,43,3.8,UPI
+1042,C042,Customer_42,Trichy,KFC,Chicken Bucket,15,2026-07-13,1311,33,4.3,Cash
+1043,C043,Customer_43,Coimbatore,Pizza Hut,Pepperoni Pizza,5,2026-11-30,850,17,3.5,Card
+1044,C044,Customer_44,Erode,Subway,Paneer Sub,15,2026-07-20,841,40,3.6,Card
+1045,C045,Customer_45,Madurai,Burger King,Whopper Burger,10,2026-04-21,1465,49,4.8,Card
+1046,C046,Customer_46,Coimbatore,Subway,Paneer Sub,5,2026-10-05,625,34,3.8,Card
+1047,C047,Customer_47,Coimbatore,Dominos,Margherita Pizza,15,2026-02-16,1376,56,4.0,UPI
+1048,C048,Customer_48,Coimbatore,Pizza Hut,Pepperoni Pizza,10,2026-04-06,848,52,4.8,Card
+1049,C049,Customer_49,Coimbatore,KFC,Chicken Bucket,20,2026-11-10,1385,53,3.6,UPI
+1050,C050,Customer_50,Chennai,Dominos,Farmhouse Pizza,0,2026-05-18,1328,19,4.6,UPI
+1051,C051,Customer_51,Salem,Subway,Paneer Sub,10,2026-09-10,1160,24,3.7,Card
+1052,C052,Customer_52,Erode,Dominos,Veg Extravaganza,5,2026-04-02,506,24,4.7,Card
+1053,C053,Customer_53,Salem,McDonalds,McVeggie,20,2026-11-05,801,23,4.8,UPI
+1054,C054,Customer_54,Trichy,Burger King,Whopper Burger,10,2026-11-16,1332,59,3.8,Card
+1055,C055,Customer_55,Erode,Pizza Hut,Pepperoni Pizza,0,2027-01-01,706,31,4.7,Cash
+1056,C056,Customer_56,Madurai,Pizza Hut,Veggie Pizza,10,2026-10-05,1099,49,4.2,Card
+1057,C057,Customer_57,Chennai,McDonalds,McChicken Burger,15,2026-01-13,1053,51,3.5,Cash
+1058,C058,Customer_58,Erode,McDonalds,Big Mac Burger,20,2026-03-06,483,31,5.0,Card
+1059,C059,Customer_59,Erode,Pizza Hut,Cheese Pizza,5,2026-11-10,382,29,4.2,UPI
+1060,C060,Customer_60,Coimbatore,Burger King,Chicken Whopper,25,2026-08-13,662,30,4.0,Cash
+1061,C061,Customer_61,Chennai,Pizza Hut,Veggie Pizza,15,2026-06-22,1347,54,4.9,Cash
+1062,C062,Customer_62,Trichy,McDonalds,Big Mac Burger,0,2026-02-06,1247,56,4.8,UPI
+1063,C063,Customer_63,Chennai,Burger King,Veg Whopper,10,2026-12-21,813,50,4.1,Cash
+1064,C064,Customer_64,Trichy,Subway,Paneer Sub,20,2026-02-13,452,53,4.9,Cash
+1065,C065,Customer_65,Chennai,Pizza Hut,Pepperoni Pizza,10,2026-08-07,645,51,4.6,UPI
+1066,C066,Customer_66,Trichy,Pizza Hut,Cheese Pizza,25,2026-11-23,912,39,4.3,UPI
+1067,C067,Customer_67,Trichy,Burger King,Whopper Burger,20,2026-02-16,722,55,3.7,Cash
+1068,C068,Customer_68,Chennai,Dominos,Veg Extravaganza,25,2026-12-18,367,43,4.8,UPI
+1069,C069,Customer_69,Madurai,Pizza Hut,Cheese Pizza,5,2026-06-16,1097,23,4.4,Card
+1070,C070,Customer_70,Salem,KFC,Zinger Burger,20,2026-10-01,1036,22,4.5,Card
+1071,C071,Customer_71,Madurai,KFC,Hot Wings,20,2026-01-03,588,48,4.2,UPI
+1072,C072,Customer_72,Trichy,Dominos,Veg Extravaganza,5,2026-05-14,623,26,3.9,Cash
+1073,C073,Customer_73,Coimbatore,KFC,Zinger Burger,20,2026-05-09,1114,25,4.3,Card
+1074,C074,Customer_74,Salem,Pizza Hut,Pepperoni Pizza,20,2026-07-16,619,33,4.7,UPI
+1075,C075,Customer_75,Erode,Dominos,Veg Extravaganza,0,2026-10-07,807,58,4.6,Cash
+1076,C076,Customer_76,Salem,KFC,Hot Wings,10,2026-10-21,837,42,4.3,Card
+1077,C077,Customer_77,Coimbatore,Burger King,Whopper Burger,0,2026-08-15,1120,37,4.0,Card
+1078,C078,Customer_78,Trichy,McDonalds,McVeggie,20,2026-09-10,431,56,4.9,Card
+1079,C079,Customer_79,Erode,KFC,Chicken Bucket,10,2026-11-22,1425,47,3.8,Card
+1080,C080,Customer_80,Erode,Burger King,Veg Whopper,25,2026-12-31,825,59,3.8,Cash
+1081,C081,Customer_81,Erode,Subway,Veg Sub,10,2026-09-27,207,58,4.1,Card
+1082,C082,Customer_82,Coimbatore,Pizza Hut,Veggie Pizza,20,2026-12-25,338,46,5.0,UPI
+1083,C083,Customer_83,Trichy,Subway,Paneer Sub,25,2026-01-11,1033,55,3.7,Card
+1084,C084,Customer_84,Chennai,McDonalds,Big Mac Burger,20,2026-01-06,915,31,4.7,Card
+1085,C085,Customer_85,Erode,Subway,Paneer Sub,5,2026-08-25,731,46,3.8,Cash
+1086,C086,Customer_86,Coimbatore,Dominos,Veg Extravaganza,0,2026-10-30,1065,19,4.0,Cash
+1087,C087,Customer_87,Salem,Pizza Hut,Pepperoni Pizza,20,2026-12-30,531,59,3.6,Cash
+1088,C088,Customer_88,Coimbatore,Subway,Chicken Sub,10,2026-04-17,1281,28,3.9,Card
+1089,C089,Customer_89,Salem,McDonalds,Big Mac Burger,25,2026-09-25,954,44,4.3,Cash
+1090,C090,Customer_90,Chennai,Dominos,Farmhouse Pizza,25,2027-01-01,1339,32,4.0,Cash
+1091,C091,Customer_91,Madurai,KFC,Hot Wings,15,2026-03-30,1190,31,4.8,Card
+1092,C092,Customer_92,Chennai,Subway,Paneer Sub,20,2026-12-28,700,57,3.5,Cash
+1093,C093,Customer_93,Coimbatore,Pizza Hut,Cheese Pizza,5,2026-05-18,588,19,4.4,UPI
+1094,C094,Customer_94,Madurai,Burger King,Chicken Whopper,25,2026-03-17,1441,31,4.2,UPI
+1095,C095,Customer_95,Chennai,KFC,Hot Wings,15,2026-07-04,834,40,3.9,Cash
+1096,C096,Customer_96,Trichy,KFC,Hot Wings,10,2026-02-04,417,29,4.1,Card
+1097,C097,Customer_97,Chennai,Dominos,Margherita Pizza,0,2026-11-02,247,28,4.5,Card
+1098,C098,Customer_98,Erode,Subway,Chicken Sub,20,2026-08-15,901,57,4.8,UPI
+1099,C099,Customer_99,Trichy,Burger King,Whopper Burger,0,2026-04-24,1018,29,4.2,Card
+1100,C100,Customer_100,Chennai,KFC,Chicken Bucket,10,2026-08-25,1320,52,4.1,Card
+1101,C101,Customer_101,Coimbatore,Subway,Paneer Sub,15,2026-10-31,427,28,5.0,UPI
+1102,C102,Customer_102,Salem,Dominos,Farmhouse Pizza,10,2026-07-16,1388,33,4.9,Card
+1103,C103,Customer_103,Trichy,KFC,Chicken Bucket,0,2026-01-08,993,24,4.8,Cash
+1104,C104,Customer_104,Erode,Dominos,Farmhouse Pizza,10,2026-03-08,362,44,4.5,Card
+1105,C105,Customer_105,Salem,Dominos,Veg Extravaganza,0,2026-09-26,464,17,4.9,UPI
+1106,C106,Customer_106,Salem,Pizza Hut,Pepperoni Pizza,0,2026-09-13,466,32,4.5,UPI
+1107,C107,Customer_107,Madurai,Subway,Paneer Sub,10,2026-11-20,748,31,4.5,UPI
+1108,C108,Customer_108,Salem,KFC,Hot Wings,20,2026-03-31,916,42,4.4,Cash
+1109,C109,Customer_109,Erode,Subway,Veg Sub,10,2026-10-08,1045,49,3.8,Cash
+1110,C110,Customer_110,Trichy,Pizza Hut,Pepperoni Pizza,25,2026-05-17,1450,19,3.9,UPI
+1111,C111,Customer_111,Salem,KFC,Chicken Bucket,15,2026-01-23,308,55,3.6,Cash
+1112,C112,Customer_112,Erode,Pizza Hut,Cheese Pizza,0,2026-06-10,282,23,4.3,Card
+1113,C113,Customer_113,Chennai,Subway,Paneer Sub,25,2026-08-17,250,48,3.9,Card
+1114,C114,Customer_114,Salem,McDonalds,McChicken Burger,0,2026-07-16,319,31,4.0,UPI
+1115,C115,Customer_115,Madurai,McDonalds,Big Mac Burger,25,2026-06-05,392,42,4.8,Cash
+1116,C116,Customer_116,Chennai,Burger King,Veg Whopper,10,2026-09-18,1000,52,4.2,UPI
+1117,C117,Customer_117,Madurai,Subway,Chicken Sub,20,2026-10-25,1265,49,3.5,Card
+1118,C118,Customer_118,Chennai,Subway,Veg Sub,10,2026-07-19,1267,35,3.6,Card
+1119,C119,Customer_119,Erode,KFC,Chicken Bucket,0,2026-06-03,1292,35,4.1,Card
+1120,C120,Customer_120,Coimbatore,McDonalds,McChicken Burger,25,2026-09-24,1226,15,4.3,UPI
+1121,C121,Customer_121,Trichy,McDonalds,McChicken Burger,10,2026-10-21,340,43,5.0,Card
+1122,C122,Customer_122,Coimbatore,Pizza Hut,Veggie Pizza,15,2026-02-10,1385,18,3.7,Cash
+1123,C123,Customer_123,Erode,Pizza Hut,Cheese Pizza,5,2026-12-26,1375,36,4.0,Cash
+1124,C124,Customer_124,Madurai,McDonalds,McChicken Burger,15,2026-11-03,897,49,4.3,UPI
+1125,C125,Customer_125,Coimbatore,KFC,Hot Wings,5,2026-10-16,473,22,3.8,Card
+1126,C126,Customer_126,Erode,Subway,Veg Sub,0,2026-10-07,744,60,3.7,Card
+1127,C127,Customer_127,Trichy,Dominos,Veg Extravaganza,20,2026-11-25,360,19,4.7,UPI
+1128,C128,Customer_128,Chennai,Subway,Chicken Sub,15,2026-01-12,1409,38,4.9,Card
+1129,C129,Customer_129,Coimbatore,Subway,Veg Sub,5,2026-11-03,1210,30,4.1,Cash
+1130,C130,Customer_130,Erode,McDonalds,Big Mac Burger,15,2026-02-07,725,41,3.8,Cash
+1131,C131,Customer_131,Madurai,Burger King,Chicken Whopper,15,2026-02-09,1026,54,4.8,Cash
+1132,C132,Customer_132,Madurai,Burger King,Whopper Burger,10,2026-08-23,213,27,4.9,Cash
+1133,C133,Customer_133,Trichy,Subway,Veg Sub,20,2026-03-03,819,47,4.8,Cash
+1134,C134,Customer_134,Erode,McDonalds,McVeggie,20,2026-10-10,778,48,4.1,Cash
+1135,C135,Customer_135,Erode,Pizza Hut,Veggie Pizza,20,2026-06-07,1126,34,3.7,Card
+1136,C136,Customer_136,Chennai,Burger King,Chicken Whopper,5,2026-05-10,219,42,4.6,Cash
+1137,C137,Customer_137,Coimbatore,Dominos,Farmhouse Pizza,15,2026-05-25,237,20,4.9,UPI
+1138,C138,Customer_138,Coimbatore,Pizza Hut,Cheese Pizza,10,2026-07-10,1185,36,4.1,UPI
+1139,C139,Customer_139,Coimbatore,Pizza Hut,Pepperoni Pizza,15,2026-03-17,237,26,4.7,Card
+1140,C140,Customer_140,Erode,KFC,Zinger Burger,15,2026-05-13,1252,33,4.6,Cash
+1141,C141,Customer_141,Madurai,McDonalds,McChicken Burger,15,2026-04-21,1206,40,4.6,UPI
+1142,C142,Customer_142,Chennai,Dominos,Margherita Pizza,5,2026-04-28,253,21,3.9,Card
+1143,C143,Customer_143,Madurai,Dominos,Veg Extravaganza,25,2026-04-06,206,20,4.1,UPI
+1144,C144,Customer_144,Chennai,Burger King,Chicken Whopper,15,2026-06-27,296,56,5.0,UPI
+1145,C145,Customer_145,Erode,Subway,Chicken Sub,15,2026-12-10,442,31,4.5,UPI
+1146,C146,Customer_146,Trichy,Pizza Hut,Pepperoni Pizza,5,2026-12-13,378,39,3.7,Card
+1147,C147,Customer_147,Trichy,McDonalds,McVeggie,15,2026-07-21,437,53,4.8,UPI
+1148,C148,Customer_148,Madurai,KFC,Hot Wings,25,2026-04-14,542,48,3.9,Cash
+1149,C149,Customer_149,Coimbatore,Burger King,Veg Whopper,25,2026-10-06,639,54,4.0,Card
+1150,C150,Customer_150,Salem,Dominos,Veg Extravaganza,25,2026-06-27,747,18,4.3,Card
+1151,C151,Customer_151,Salem,McDonalds,Big Mac Burger,20,2026-05-21,753,60,3.9,UPI
+1152,C152,Customer_152,Coimbatore,KFC,Chicken Bucket,15,2026-10-15,1490,53,4.9,UPI
+1153,C153,Customer_153,Erode,Burger King,Chicken Whopper,5,2026-07-31,753,32,4.2,Card
+1154,C154,Customer_154,Madurai,McDonalds,Big Mac Burger,15,2026-07-08,1426,45,3.9,UPI
+1155,C155,Customer_155,Chennai,Burger King,Chicken Whopper,20,2026-12-22,1123,49,3.7,Cash
+1156,C156,Customer_156,Erode,McDonalds,McVeggie,5,2026-11-27,636,35,4.4,Card
+1157,C157,Customer_157,Salem,McDonalds,Big Mac Burger,5,2026-12-24,725,29,3.6,Cash
+1158,C158,Customer_158,Salem,Subway,Chicken Sub,5,2026-12-17,437,29,4.3,Cash
+1159,C159,Customer_159,Trichy,Burger King,Veg Whopper,15,2026-06-17,208,16,4.7,Cash
+1160,C160,Customer_160,Salem,KFC,Hot Wings,5,2026-05-24,1481,36,3.9,Cash
+1161,C161,Customer_161,Madurai,Burger King,Whopper Burger,0,2026-06-18,910,23,3.7,UPI
+1162,C162,Customer_162,Erode,Subway,Veg Sub,10,2026-02-09,388,21,3.9,UPI
+1163,C163,Customer_163,Erode,McDonalds,Big Mac Burger,10,2026-01-16,360,23,4.9,Card
+1164,C164,Customer_164,Trichy,Subway,Chicken Sub,5,2026-02-18,873,32,3.5,Card
+1165,C165,Customer_165,Coimbatore,Dominos,Veg Extravaganza,25,2026-03-06,1441,32,4.1,Cash
+1166,C166,Customer_166,Erode,Burger King,Chicken Whopper,20,2026-09-01,1355,41,4.3,Card
+1167,C167,Customer_167,Chennai,McDonalds,McVeggie,10,2026-10-09,472,18,4.4,UPI
+1168,C168,Customer_168,Chennai,KFC,Chicken Bucket,15,2026-05-21,1318,16,3.9,Card
+1169,C169,Customer_169,Coimbatore,Burger King,Veg Whopper,5,2026-07-26,412,38,3.6,Cash
+1170,C170,Customer_170,Erode,McDonalds,McVeggie,25,2026-09-17,1389,16,4.4,Card
+1171,C171,Customer_171,Chennai,Subway,Veg Sub,0,2026-10-24,490,58,4.8,UPI
+1172,C172,Customer_172,Coimbatore,Pizza Hut,Cheese Pizza,10,2026-03-23,518,39,4.7,Card
+1173,C173,Customer_173,Erode,Dominos,Margherita Pizza,10,2026-06-01,1436,15,4.3,UPI
+1174,C174,Customer_174,Chennai,Subway,Paneer Sub,25,2026-10-15,407,44,3.5,Card
+1175,C175,Customer_175,Trichy,Burger King,Veg Whopper,10,2026-07-09,1036,40,4.4,UPI
+1176,C176,Customer_176,Madurai,Dominos,Margherita Pizza,25,2026-12-27,201,17,4.7,Cash
+1177,C177,Customer_177,Erode,KFC,Hot Wings,10,2026-10-10,754,51,4.9,Cash
+1178,C178,Customer_178,Madurai,McDonalds,McVeggie,5,2026-11-15,691,21,4.3,Card
+1179,C179,Customer_179,Salem,KFC,Chicken Bucket,25,2026-06-10,1065,37,3.9,Cash
+1180,C180,Customer_180,Erode,Dominos,Farmhouse Pizza,15,2026-07-12,934,33,4.6,Card
+1181,C181,Customer_181,Trichy,Pizza Hut,Pepperoni Pizza,25,2026-11-09,1262,24,3.6,Cash
+1182,C182,Customer_182,Erode,Dominos,Margherita Pizza,20,2026-11-26,1481,46,4.8,Cash
+1183,C183,Customer_183,Erode,Dominos,Margherita Pizza,15,2026-04-18,984,55,4.8,UPI
+1184,C184,Customer_184,Trichy,Pizza Hut,Pepperoni Pizza,0,2026-05-08,887,36,4.5,Cash
+1185,C185,Customer_185,Trichy,Pizza Hut,Cheese Pizza,10,2026-09-10,596,42,4.2,Cash
+1186,C186,Customer_186,Erode,Dominos,Farmhouse Pizza,10,2026-03-06,506,15,4.1,UPI
+1187,C187,Customer_187,Trichy,Dominos,Margherita Pizza,5,2026-08-23,972,57,4.3,Card
+1188,C188,Customer_188,Chennai,KFC,Hot Wings,0,2026-05-11,238,44,4.1,Cash
+1189,C189,Customer_189,Trichy,Subway,Veg Sub,20,2026-12-23,1000,15,4.3,UPI
+1190,C190,Customer_190,Chennai,Pizza Hut,Veggie Pizza,5,2026-06-25,689,19,4.7,Cash
+1191,C191,Customer_191,Chennai,KFC,Zinger Burger,20,2026-01-12,1250,28,4.1,UPI
+1192,C192,Customer_192,Trichy,Burger King,Whopper Burger,25,2026-09-16,1453,56,5.0,UPI
+1193,C193,Customer_193,Madurai,KFC,Zinger Burger,0,2026-10-18,299,39,3.6,UPI
+1194,C194,Customer_194,Madurai,Subway,Veg Sub,20,2026-05-03,224,16,4.9,Card
+1195,C195,Customer_195,Coimbatore,Pizza Hut,Veggie Pizza,15,2026-03-27,1418,23,5.0,Cash
+1196,C196,Customer_196,Erode,McDonalds,McVeggie,15,2026-09-14,1055,50,3.8,Card
+1197,C197,Customer_197,Madurai,Subway,Veg Sub,15,2026-05-23,937,24,3.9,Card
+1198,C198,Customer_198,Trichy,KFC,Hot Wings,0,2026-07-04,888,24,3.9,Card
+1199,C199,Customer_199,Madurai,McDonalds,McChicken Burger,20,2026-08-28,227,24,4.9,Card
+1200,C200,Customer_200,Chennai,KFC,Chicken Bucket,20,2026-10-03,1466,27,4.3,Cash
+1201,C201,Customer_201,Erode,KFC,Chicken Bucket,20,2026-08-24,1001,60,3.8,Cash
+1202,C202,Customer_202,Chennai,Dominos,Veg Extravaganza,0,2026-01-16,1030,39,4.1,UPI
+1203,C203,Customer_203,Erode,Burger King,Whopper Burger,25,2026-10-03,1318,19,4.9,Card
+1204,C204,Customer_204,Coimbatore,KFC,Chicken Bucket,25,2026-07-23,930,26,3.8,Cash
+1205,C205,Customer_205,Coimbatore,KFC,Zinger Burger,20,2026-05-30,381,47,4.7,UPI
+1206,C206,Customer_206,Madurai,Subway,Veg Sub,10,2026-11-15,1413,21,4.4,Card
+1207,C207,Customer_207,Erode,McDonalds,Big Mac Burger,0,2026-06-11,527,23,4.9,Cash
+1208,C208,Customer_208,Salem,Dominos,Farmhouse Pizza,25,2026-10-28,703,28,4.3,Card
+1209,C209,Customer_209,Trichy,Dominos,Margherita Pizza,15,2026-12-05,1259,23,4.7,Cash
+1210,C210,Customer_210,Trichy,McDonalds,Big Mac Burger,25,2026-03-03,612,51,4.1,Card
+1211,C211,Customer_211,Erode,Burger King,Whopper Burger,10,2026-01-20,543,57,4.5,Cash
+1212,C212,Customer_212,Chennai,Burger King,Veg Whopper,10,2026-12-05,1062,40,3.9,UPI
+1213,C213,Customer_213,Chennai,Subway,Veg Sub,20,2026-01-09,1129,17,4.2,Card
+1214,C214,Customer_214,Erode,Subway,Paneer Sub,5,2026-02-18,357,58,4.6,Card
+1215,C215,Customer_215,Chennai,Pizza Hut,Pepperoni Pizza,20,2026-09-15,589,47,4.1,Card
+1216,C216,Customer_216,Chennai,KFC,Zinger Burger,25,2026-10-28,332,36,4.9,Card
+1217,C217,Customer_217,Erode,Dominos,Margherita Pizza,5,2026-05-27,1160,17,4.4,UPI
+1218,C218,Customer_218,Madurai,Burger King,Whopper Burger,15,2026-09-20,1372,56,4.0,Card
+1219,C219,Customer_219,Madurai,McDonalds,Big Mac Burger,20,2026-09-02,235,42,4.0,Cash
+1220,C220,Customer_220,Chennai,McDonalds,McVeggie,20,2026-10-12,768,19,4.8,Card
+1221,C221,Customer_221,Madurai,Pizza Hut,Veggie Pizza,0,2026-10-22,1391,22,3.6,Cash
+1222,C222,Customer_222,Salem,Dominos,Farmhouse Pizza,10,2026-07-08,1328,17,4.5,Cash
+1223,C223,Customer_223,Madurai,Dominos,Veg Extravaganza,0,2026-10-04,1113,36,4.3,Cash
+1224,C224,Customer_224,Chennai,Dominos,Farmhouse Pizza,10,2026-04-20,499,52,3.7,UPI
+1225,C225,Customer_225,Coimbatore,Pizza Hut,Veggie Pizza,15,2026-07-04,899,31,4.4,UPI
+1226,C226,Customer_226,Salem,Subway,Chicken Sub,5,2026-05-16,1013,50,3.9,Cash
+1227,C227,Customer_227,Salem,Dominos,Veg Extravaganza,5,2026-05-17,1047,20,3.7,Cash
+1228,C228,Customer_228,Trichy,Subway,Paneer Sub,5,2026-04-18,402,32,4.6,UPI
+1229,C229,Customer_229,Erode,Subway,Paneer Sub,5,2026-10-06,353,50,4.0,Card
+1230,C230,Customer_230,Chennai,Burger King,Whopper Burger,15,2026-07-06,276,16,5.0,Card
+1231,C231,Customer_231,Chennai,Subway,Chicken Sub,0,2026-12-28,1404,59,4.5,Cash
+1232,C232,Customer_232,Chennai,Pizza Hut,Pepperoni Pizza,5,2026-02-28,1403,23,5.0,Cash
+1233,C233,Customer_233,Trichy,Dominos,Farmhouse Pizza,15,2026-04-11,313,38,4.9,Card
+1234,C234,Customer_234,Trichy,Burger King,Veg Whopper,5,2026-11-22,219,15,5.0,UPI
+1235,C235,Customer_235,Coimbatore,KFC,Hot Wings,0,2026-01-05,671,20,4.3,UPI
+1236,C236,Customer_236,Erode,Dominos,Margherita Pizza,5,2026-08-15,791,30,4.2,Card
+1237,C237,Customer_237,Madurai,McDonalds,McVeggie,0,2026-04-10,1417,26,3.8,Cash
+1238,C238,Customer_238,Erode,McDonalds,McChicken Burger,20,2026-08-31,944,16,4.2,UPI
+1239,C239,Customer_239,Trichy,Subway,Chicken Sub,25,2026-11-14,1085,60,4.4,Card
+1240,C240,Customer_240,Trichy,Dominos,Farmhouse Pizza,5,2026-12-26,1253,46,4.9,Cash
+1241,C241,Customer_241,Trichy,Burger King,Chicken Whopper,20,2026-09-02,1428,58,4.6,Card
+1242,C242,Customer_242,Madurai,Burger King,Whopper Burger,10,2026-12-12,1274,34,4.3,Card
+1243,C243,Customer_243,Erode,Burger King,Veg Whopper,10,2026-06-08,230,53,4.6,Card
+1244,C244,Customer_244,Coimbatore,Pizza Hut,Pepperoni Pizza,20,2026-08-16,628,59,4.2,Card
+1245,C245,Customer_245,Trichy,Subway,Veg Sub,15,2026-08-12,311,56,3.7,UPI
+1246,C246,Customer_246,Erode,McDonalds,McVeggie,0,2026-06-06,975,15,4.0,Card
+1247,C247,Customer_247,Salem,Burger King,Whopper Burger,25,2026-02-11,873,22,4.5,Cash
+1248,C248,Customer_248,Chennai,Dominos,Veg Extravaganza,10,2026-07-29,1444,36,3.8,Cash
+1249,C249,Customer_249,Trichy,Subway,Veg Sub,20,2026-10-21,949,34,3.9,Card
+1250,C250,Customer_250,Madurai,Burger King,Whopper Burger,5,2026-07-28,674,53,3.6,UPI
+1251,C251,Customer_251,Chennai,Subway,Veg Sub,25,2026-07-22,976,28,4.4,Cash
+1252,C252,Customer_252,Trichy,McDonalds,McVeggie,10,2026-01-01,829,43,4.2,Cash
+1253,C253,Customer_253,Salem,KFC,Zinger Burger,15,2026-10-11,900,47,4.2,Cash
+1254,C254,Customer_254,Erode,Dominos,Veg Extravaganza,10,2026-10-08,765,42,3.5,Card
+1255,C255,Customer_255,Trichy,Dominos,Farmhouse Pizza,0,2026-09-14,651,53,4.6,Cash
+1256,C256,Customer_256,Madurai,McDonalds,McChicken Burger,5,2026-01-28,409,53,4.3,Cash
+1257,C257,Customer_257,Chennai,KFC,Zinger Burger,0,2026-02-04,646,15,4.5,Card
+1258,C258,Customer_258,Trichy,Subway,Veg Sub,0,2026-01-29,218,17,4.3,Card
+1259,C259,Customer_259,Erode,Dominos,Margherita Pizza,20,2026-04-19,1160,27,3.9,Cash
+1260,C260,Customer_260,Erode,Burger King,Veg Whopper,5,2026-04-04,631,40,4.8,UPI
+1261,C261,Customer_261,Trichy,Burger King,Veg Whopper,0,2026-06-19,869,41,3.7,Cash
+1262,C262,Customer_262,Erode,KFC,Hot Wings,0,2026-04-05,647,29,3.8,UPI
+1263,C263,Customer_263,Coimbatore,Dominos,Veg Extravaganza,5,2026-02-02,1107,24,3.8,Cash
+1264,C264,Customer_264,Coimbatore,McDonalds,Big Mac Burger,20,2026-02-15,1106,27,4.7,Cash
+1265,C265,Customer_265,Salem,KFC,Chicken Bucket,5,2026-01-28,437,20,4.9,Cash
+1266,C266,Customer_266,Coimbatore,KFC,Hot Wings,10,2026-09-27,1065,30,4.6,Cash
+1267,C267,Customer_267,Chennai,McDonalds,McChicken Burger,10,2026-07-02,1130,57,4.8,Card
+1268,C268,Customer_268,Madurai,Subway,Veg Sub,15,2026-05-06,1202,36,4.9,Cash
+1269,C269,Customer_269,Salem,Subway,Veg Sub,0,2026-08-12,767,49,4.0,Card
+1270,C270,Customer_270,Madurai,McDonalds,McChicken Burger,10,2026-06-30,846,40,4.9,Cash
+1271,C271,Customer_271,Coimbatore,Dominos,Margherita Pizza,10,2026-03-28,818,51,3.7,Cash
+1272,C272,Customer_272,Trichy,Subway,Veg Sub,5,2026-08-23,1484,24,3.7,UPI
+1273,C273,Customer_273,Coimbatore,Burger King,Whopper Burger,10,2026-11-27,845,25,3.9,Card
+1274,C274,Customer_274,Salem,McDonalds,McChicken Burger,5,2026-10-09,923,43,4.9,UPI
+1275,C275,Customer_275,Coimbatore,Subway,Veg Sub,25,2026-04-06,1182,49,3.6,UPI
+1276,C276,Customer_276,Chennai,Subway,Chicken Sub,10,2026-07-07,1239,37,4.8,Cash
+1277,C277,Customer_277,Trichy,Subway,Paneer Sub,10,2026-12-01,446,26,4.9,UPI
+1278,C278,Customer_278,Erode,McDonalds,McVeggie,5,2026-02-01,705,34,4.0,Card
+1279,C279,Customer_279,Coimbatore,KFC,Chicken Bucket,5,2026-05-29,1364,15,3.8,UPI
+1280,C280,Customer_280,Coimbatore,KFC,Hot Wings,10,2026-03-14,532,29,3.6,Cash
+1281,C281,Customer_281,Erode,Burger King,Chicken Whopper,20,2026-10-05,1084,43,4.4,Card
+1282,C282,Customer_282,Erode,KFC,Zinger Burger,5,2026-08-10,351,32,3.8,UPI
+1283,C283,Customer_283,Chennai,KFC,Chicken Bucket,5,2026-09-06,943,26,3.6,Card
+1284,C284,Customer_284,Erode,Dominos,Margherita Pizza,25,2026-12-23,632,20,4.2,Cash
+1285,C285,Customer_285,Erode,KFC,Zinger Burger,5,2026-10-22,236,28,4.0,Card
+1286,C286,Customer_286,Salem,Burger King,Whopper Burger,10,2026-09-13,1345,37,3.7,UPI
+1287,C287,Customer_287,Coimbatore,Burger King,Chicken Whopper,25,2026-10-18,838,53,4.0,Cash
+1288,C288,Customer_288,Madurai,Dominos,Farmhouse Pizza,15,2026-02-06,736,19,5.0,Cash
+1289,C289,Customer_289,Salem,McDonalds,Big Mac Burger,10,2026-04-26,841,31,4.8,Card
+1290,C290,Customer_290,Madurai,McDonalds,McChicken Burger,0,2026-05-31,532,55,3.9,UPI
+1291,C291,Customer_291,Madurai,Pizza Hut,Veggie Pizza,5,2026-05-23,930,56,4.6,Card
+1292,C292,Customer_292,Coimbatore,Burger King,Chicken Whopper,10,2026-12-12,553,35,3.7,UPI
+1293,C293,Customer_293,Coimbatore,Pizza Hut,Veggie Pizza,25,2026-10-18,593,40,5.0,UPI
+1294,C294,Customer_294,Trichy,Pizza Hut,Pepperoni Pizza,0,2026-11-24,707,20,4.6,UPI
+1295,C295,Customer_295,Erode,Burger King,Veg Whopper,20,2026-09-05,870,48,4.7,Cash
+1296,C296,Customer_296,Madurai,Subway,Paneer Sub,0,2026-07-17,1331,50,4.7,Card
+1297,C297,Customer_297,Erode,KFC,Hot Wings,10,2026-01-27,954,37,4.2,Cash
+1298,C298,Customer_298,Trichy,Subway,Chicken Sub,10,2026-02-15,1104,37,3.8,UPI
+1299,C299,Customer_299,Salem,Pizza Hut,Cheese Pizza,20,2026-06-22,555,51,4.2,UPI
+1300,C300,Customer_300,Chennai,Burger King,Chicken Whopper,0,2026-08-16,534,47,3.8,Card
+1301,C301,Customer_301,Salem,Pizza Hut,Cheese Pizza,10,2026-03-12,546,36,3.7,Cash
+1302,C302,Customer_302,Erode,Burger King,Veg Whopper,5,2026-10-11,1075,44,4.2,Cash
+1303,C303,Customer_303,Chennai,McDonalds,McVeggie,20,2026-09-17,832,52,4.8,UPI
+1304,C304,Customer_304,Trichy,McDonalds,Big Mac Burger,25,2026-01-04,897,22,4.1,Cash
+1305,C305,Customer_305,Erode,Subway,Chicken Sub,5,2026-11-13,1100,43,4.7,Card
+1306,C306,Customer_306,Chennai,McDonalds,Big Mac Burger,0,2026-02-24,399,49,4.1,Card
+1307,C307,Customer_307,Chennai,Pizza Hut,Cheese Pizza,15,2026-09-25,1415,17,4.4,Cash
+1308,C308,Customer_308,Madurai,Pizza Hut,Cheese Pizza,10,2026-06-28,555,53,3.9,UPI
+1309,C309,Customer_309,Salem,Burger King,Chicken Whopper,0,2026-10-09,670,43,4.8,Card
+1310,C310,Customer_310,Trichy,McDonalds,Big Mac Burger,15,2026-01-28,1159,32,4.9,Card
+1311,C311,Customer_311,Erode,McDonalds,Big Mac Burger,5,2026-07-25,1308,42,4.8,Cash
+1312,C312,Customer_312,Madurai,Subway,Chicken Sub,5,2026-06-13,498,37,5.0,Cash
+1313,C313,Customer_313,Chennai,KFC,Chicken Bucket,15,2026-11-29,518,21,4.5,Card
+1314,C314,Customer_314,Madurai,Dominos,Margherita Pizza,10,2026-10-14,858,32,4.1,Card
+1315,C315,Customer_315,Trichy,Pizza Hut,Cheese Pizza,10,2026-12-31,820,56,4.4,Card
+1316,C316,Customer_316,Chennai,McDonalds,Big Mac Burger,15,2026-04-03,1112,24,4.2,Cash
+1317,C317,Customer_317,Erode,Dominos,Farmhouse Pizza,10,2026-09-11,1344,55,4.0,Cash
+1318,C318,Customer_318,Erode,McDonalds,McVeggie,15,2026-06-15,1192,59,4.1,Cash
+1319,C319,Customer_319,Chennai,KFC,Chicken Bucket,20,2026-04-13,1417,30,3.6,Card
+1320,C320,Customer_320,Salem,Burger King,Veg Whopper,15,2026-01-16,905,38,4.0,Cash
+1321,C321,Customer_321,Madurai,Subway,Veg Sub,10,2026-04-25,842,40,5.0,Card
+1322,C322,Customer_322,Chennai,Subway,Veg Sub,15,2026-11-30,917,53,4.7,Cash
+1323,C323,Customer_323,Chennai,KFC,Chicken Bucket,20,2026-06-13,987,28,4.6,Card
+1324,C324,Customer_324,Madurai,Dominos,Margherita Pizza,10,2026-02-17,1035,24,3.7,Cash
+1325,C325,Customer_325,Coimbatore,KFC,Chicken Bucket,15,2026-08-12,866,49,4.8,Cash
+1326,C326,Customer_326,Coimbatore,Burger King,Whopper Burger,5,2026-03-23,537,49,3.7,UPI
+1327,C327,Customer_327,Madurai,Dominos,Veg Extravaganza,20,2026-03-08,1083,23,4.8,Cash
+1328,C328,Customer_328,Trichy,Subway,Chicken Sub,10,2026-11-01,480,16,4.0,UPI
+1329,C329,Customer_329,Chennai,KFC,Hot Wings,15,2026-10-31,1200,17,4.9,UPI
+1330,C330,Customer_330,Erode,KFC,Zinger Burger,20,2026-03-15,628,38,4.6,Card
+1331,C331,Customer_331,Coimbatore,Subway,Veg Sub,15,2026-09-01,261,48,4.2,UPI
+1332,C332,Customer_332,Chennai,Subway,Veg Sub,25,2026-01-03,822,17,3.9,Cash
+1333,C333,Customer_333,Salem,KFC,Chicken Bucket,0,2026-07-24,879,21,4.2,Cash
+1334,C334,Customer_334,Trichy,Burger King,Chicken Whopper,15,2026-12-08,774,24,4.1,Cash
+1335,C335,Customer_335,Madurai,McDonalds,McChicken Burger,15,2026-07-08,1324,28,3.8,UPI
+1336,C336,Customer_336,Chennai,KFC,Chicken Bucket,5,2026-12-09,1006,44,4.7,Card
+1337,C337,Customer_337,Salem,Burger King,Whopper Burger,5,2026-09-27,215,17,4.1,Card
+1338,C338,Customer_338,Chennai,Pizza Hut,Pepperoni Pizza,25,2026-12-05,966,41,4.7,Cash
+1339,C339,Customer_339,Salem,Subway,Chicken Sub,15,2026-03-08,1271,38,4.4,Card
+1340,C340,Customer_340,Chennai,Dominos,Veg Extravaganza,25,2026-03-05,1094,24,4.7,Card
+1341,C341,Customer_341,Chennai,KFC,Zinger Burger,0,2026-08-30,254,45,3.6,Cash
+1342,C342,Customer_342,Salem,Pizza Hut,Cheese Pizza,20,2026-11-05,1226,21,3.7,Cash
+1343,C343,Customer_343,Madurai,Subway,Chicken Sub,20,2026-10-06,1039,30,4.9,Cash
+1344,C344,Customer_344,Madurai,Pizza Hut,Veggie Pizza,10,2026-08-13,439,19,3.8,Cash
+1345,C345,Customer_345,Coimbatore,Subway,Veg Sub,0,2026-07-01,416,27,3.7,Cash
+1346,C346,Customer_346,Salem,Burger King,Whopper Burger,20,2026-08-10,680,20,4.0,Cash
+1347,C347,Customer_347,Erode,Dominos,Farmhouse Pizza,20,2026-06-02,1002,55,3.6,Cash
+1348,C348,Customer_348,Coimbatore,Dominos,Veg Extravaganza,15,2026-08-13,648,32,4.9,Card
+1349,C349,Customer_349,Madurai,Pizza Hut,Veggie Pizza,0,2026-05-18,1252,26,4.6,Card
+1350,C350,Customer_350,Coimbatore,Pizza Hut,Veggie Pizza,20,2026-04-04,857,47,5.0,Card
+1351,C351,Customer_351,Trichy,Subway,Paneer Sub,25,2026-10-14,1422,40,4.2,Cash
+1352,C352,Customer_352,Coimbatore,KFC,Chicken Bucket,0,2026-03-17,1210,22,4.7,Card
+1353,C353,Customer_353,Erode,McDonalds,McChicken Burger,5,2026-02-24,1227,23,5.0,UPI
+1354,C354,Customer_354,Madurai,Pizza Hut,Veggie Pizza,20,2026-06-16,1309,38,3.7,UPI
+1355,C355,Customer_355,Chennai,Burger King,Veg Whopper,20,2026-02-03,1146,33,3.5,Card
+1356,C356,Customer_356,Erode,Subway,Chicken Sub,0,2026-10-17,1022,22,3.6,Card
+1357,C357,Customer_357,Erode,Burger King,Chicken Whopper,25,2026-12-19,1373,43,3.6,Card
+1358,C358,Customer_358,Coimbatore,Burger King,Chicken Whopper,25,2026-01-23,584,25,3.6,UPI
+1359,C359,Customer_359,Salem,Dominos,Veg Extravaganza,20,2026-06-06,610,25,4.3,UPI
+1360,C360,Customer_360,Salem,KFC,Hot Wings,10,2026-12-20,1352,42,3.9,UPI
+1361,C361,Customer_361,Erode,McDonalds,Big Mac Burger,0,2026-11-02,742,18,4.9,UPI
+1362,C362,Customer_362,Erode,Pizza Hut,Cheese Pizza,15,2026-08-05,1093,19,3.8,Cash
+1363,C363,Customer_363,Trichy,Dominos,Farmhouse Pizza,15,2026-07-01,926,47,4.9,UPI
+1364,C364,Customer_364,Chennai,KFC,Chicken Bucket,10,2026-02-04,1114,35,4.7,UPI
+1365,C365,Customer_365,Chennai,McDonalds,McVeggie,25,2026-09-24,981,21,4.2,Cash
+1366,C366,Customer_366,Salem,Burger King,Veg Whopper,10,2026-05-15,796,28,4.7,Cash
+1367,C367,Customer_367,Madurai,Subway,Chicken Sub,0,2026-07-15,1136,49,4.8,UPI
+1368,C368,Customer_368,Madurai,KFC,Hot Wings,0,2026-06-01,1479,42,3.8,Card
+1369,C369,Customer_369,Chennai,Dominos,Margherita Pizza,15,2026-10-22,437,26,4.2,Cash
+1370,C370,Customer_370,Erode,Subway,Chicken Sub,20,2026-08-10,1019,50,5.0,UPI
+1371,C371,Customer_371,Madurai,Subway,Veg Sub,15,2026-03-07,324,33,4.1,Card
+1372,C372,Customer_372,Salem,Subway,Veg Sub,20,2026-05-19,1180,53,4.1,Cash
+1373,C373,Customer_373,Coimbatore,Dominos,Margherita Pizza,20,2027-01-01,1301,31,4.9,Cash
+1374,C374,Customer_374,Erode,Dominos,Veg Extravaganza,25,2026-02-19,959,44,3.9,UPI
+1375,C375,Customer_375,Chennai,McDonalds,Big Mac Burger,15,2026-12-28,979,16,4.2,Cash
+1376,C376,Customer_376,Erode,KFC,Zinger Burger,15,2026-04-30,1243,16,4.1,UPI
+1377,C377,Customer_377,Erode,Pizza Hut,Pepperoni Pizza,5,2026-12-11,281,44,3.6,Cash
+1378,C378,Customer_378,Coimbatore,Dominos,Margherita Pizza,0,2026-02-07,292,52,4.0,Card
+1379,C379,Customer_379,Erode,Dominos,Farmhouse Pizza,20,2026-07-03,869,25,4.8,Card
+1380,C380,Customer_380,Chennai,Burger King,Veg Whopper,20,2026-04-30,708,55,4.7,UPI
+1381,C381,Customer_381,Coimbatore,McDonalds,McVeggie,10,2027-01-01,818,52,3.5,Card
+1382,C382,Customer_382,Trichy,McDonalds,Big Mac Burger,5,2026-05-04,530,20,3.9,UPI
+1383,C383,Customer_383,Chennai,KFC,Hot Wings,20,2026-02-07,847,39,4.9,UPI
+1384,C384,Customer_384,Salem,KFC,Zinger Burger,5,2026-07-25,430,59,4.8,UPI
+1385,C385,Customer_385,Trichy,Subway,Paneer Sub,20,2026-11-30,1113,36,3.6,UPI
+1386,C386,Customer_386,Salem,KFC,Hot Wings,15,2027-01-01,1338,44,3.5,UPI
+1387,C387,Customer_387,Madurai,Pizza Hut,Veggie Pizza,0,2026-04-09,231,30,4.0,Cash
+1388,C388,Customer_388,Coimbatore,Burger King,Veg Whopper,10,2026-06-28,744,33,3.6,UPI
+1389,C389,Customer_389,Madurai,Subway,Veg Sub,5,2026-02-09,846,43,4.5,UPI
+1390,C390,Customer_390,Trichy,KFC,Chicken Bucket,5,2026-01-16,598,55,4.9,Cash
+1391,C391,Customer_391,Trichy,Burger King,Chicken Whopper,0,2026-08-14,258,50,3.8,Card
+1392,C392,Customer_392,Erode,KFC,Chicken Bucket,5,2026-03-12,328,16,4.8,Card
+1393,C393,Customer_393,Salem,Burger King,Chicken Whopper,20,2026-05-14,599,40,3.5,Card
+1394,C394,Customer_394,Coimbatore,McDonalds,McVeggie,15,2026-07-26,1285,48,4.3,Card
+1395,C395,Customer_395,Chennai,Dominos,Farmhouse Pizza,20,2026-07-21,472,54,3.8,UPI
+1396,C396,Customer_396,Salem,Burger King,Veg Whopper,5,2026-04-23,852,40,3.6,Card
+1397,C397,Customer_397,Erode,Subway,Paneer Sub,20,2026-02-03,270,23,4.3,Cash
+1398,C398,Customer_398,Erode,Pizza Hut,Cheese Pizza,20,2026-01-23,645,27,4.0,Card
+1399,C399,Customer_399,Erode,McDonalds,Big Mac Burger,20,2026-05-17,590,49,4.3,Cash
+1400,C400,Customer_400,Chennai,KFC,Chicken Bucket,5,2026-09-03,537,18,4.5,Card
+1401,C401,Customer_401,Salem,McDonalds,Big Mac Burger,0,2026-01-21,1402,42,4.2,UPI
+1402,C402,Customer_402,Erode,KFC,Zinger Burger,25,2026-02-25,1029,29,3.6,Card
+1403,C403,Customer_403,Madurai,Burger King,Veg Whopper,20,2026-12-05,952,42,4.7,Cash
+1404,C404,Customer_404,Madurai,KFC,Zinger Burger,15,2026-07-02,991,51,3.8,Cash
+1405,C405,Customer_405,Chennai,Dominos,Veg Extravaganza,20,2026-11-19,905,19,3.5,Cash
+1406,C406,Customer_406,Salem,Pizza Hut,Cheese Pizza,0,2026-11-17,679,44,4.0,UPI
+1407,C407,Customer_407,Trichy,McDonalds,Big Mac Burger,10,2026-10-29,1273,54,4.8,UPI
+1408,C408,Customer_408,Chennai,Burger King,Veg Whopper,25,2026-06-09,1106,30,4.2,Card
+1409,C409,Customer_409,Erode,Dominos,Farmhouse Pizza,0,2026-05-27,731,16,4.3,Card
+1410,C410,Customer_410,Erode,Subway,Chicken Sub,5,2026-04-23,801,20,3.8,Card
+1411,C411,Customer_411,Trichy,Pizza Hut,Cheese Pizza,25,2026-08-30,410,51,4.2,UPI
+1412,C412,Customer_412,Salem,Subway,Veg Sub,0,2026-05-23,274,32,4.0,Cash
+1413,C413,Customer_413,Erode,Pizza Hut,Veggie Pizza,25,2026-06-22,234,44,4.8,UPI
+1414,C414,Customer_414,Coimbatore,KFC,Hot Wings,25,2026-01-30,246,43,4.3,Card
+1415,C415,Customer_415,Chennai,KFC,Chicken Bucket,0,2026-07-22,283,26,4.0,Card
+1416,C416,Customer_416,Erode,Burger King,Chicken Whopper,5,2026-01-20,1065,29,4.7,Card
+1417,C417,Customer_417,Erode,Subway,Paneer Sub,5,2026-01-21,1439,60,4.1,Card
+1418,C418,Customer_418,Madurai,Burger King,Veg Whopper,15,2026-06-22,1356,16,3.6,Cash
+1419,C419,Customer_419,Madurai,Subway,Veg Sub,15,2026-03-24,1312,47,4.7,Cash
+1420,C420,Customer_420,Erode,Burger King,Whopper Burger,10,2026-07-31,1185,33,4.9,Cash
+1421,C421,Customer_421,Madurai,Pizza Hut,Veggie Pizza,15,2026-05-27,691,37,4.3,Cash
+1422,C422,Customer_422,Erode,Subway,Veg Sub,10,2026-01-11,348,31,4.6,Card
+1423,C423,Customer_423,Coimbatore,KFC,Hot Wings,10,2026-09-09,232,25,4.7,UPI
+1424,C424,Customer_424,Chennai,KFC,Chicken Bucket,15,2026-01-30,553,19,3.6,Cash
+1425,C425,Customer_425,Trichy,Subway,Paneer Sub,0,2026-01-30,755,18,4.3,Cash
+1426,C426,Customer_426,Chennai,Subway,Paneer Sub,20,2026-08-13,426,36,4.8,Card
+1427,C427,Customer_427,Madurai,Subway,Paneer Sub,0,2026-04-28,1103,50,4.0,Card
+1428,C428,Customer_428,Trichy,Pizza Hut,Veggie Pizza,25,2026-08-12,1402,32,3.8,UPI
+1429,C429,Customer_429,Coimbatore,McDonalds,McChicken Burger,0,2026-11-20,1414,35,4.4,UPI
+1430,C430,Customer_430,Trichy,KFC,Hot Wings,0,2026-09-30,618,45,4.9,UPI
+1431,C431,Customer_431,Erode,McDonalds,McVeggie,25,2026-12-31,530,28,3.9,Cash
+1432,C432,Customer_432,Trichy,KFC,Zinger Burger,15,2026-09-08,918,60,4.7,Cash
+1433,C433,Customer_433,Salem,Dominos,Farmhouse Pizza,5,2026-03-21,637,40,4.2,Cash
+1434,C434,Customer_434,Madurai,McDonalds,McVeggie,10,2026-09-04,897,20,4.4,UPI
+1435,C435,Customer_435,Erode,KFC,Hot Wings,15,2026-04-01,386,15,3.6,UPI
+1436,C436,Customer_436,Chennai,McDonalds,McVeggie,15,2026-07-25,1309,47,3.9,Cash
+1437,C437,Customer_437,Erode,McDonalds,McChicken Burger,0,2026-12-29,1009,44,3.9,Cash
+1438,C438,Customer_438,Coimbatore,Subway,Veg Sub,25,2026-11-06,254,55,4.6,Cash
+1439,C439,Customer_439,Coimbatore,Dominos,Farmhouse Pizza,25,2026-01-09,1471,43,4.0,UPI
+1440,C440,Customer_440,Coimbatore,Burger King,Chicken Whopper,15,2026-12-22,304,52,4.7,Card
+1441,C441,Customer_441,Trichy,Subway,Chicken Sub,0,2026-08-05,1031,22,4.8,UPI
+1442,C442,Customer_442,Erode,Dominos,Veg Extravaganza,15,2026-06-28,559,40,4.6,UPI
+1443,C443,Customer_443,Erode,McDonalds,McVeggie,20,2026-07-30,540,51,4.2,Card
+1444,C444,Customer_444,Erode,Burger King,Veg Whopper,25,2026-12-14,271,40,4.3,Cash
+1445,C445,Customer_445,Chennai,Pizza Hut,Cheese Pizza,5,2026-08-21,1005,51,5.0,Cash
+1446,C446,Customer_446,Chennai,Subway,Chicken Sub,25,2026-02-10,1439,52,4.9,Card
+1447,C447,Customer_447,Madurai,McDonalds,McChicken Burger,25,2026-01-18,1482,33,3.7,Cash
+1448,C448,Customer_448,Madurai,McDonalds,McChicken Burger,0,2026-05-11,218,22,4.8,UPI
+1449,C449,Customer_449,Chennai,Pizza Hut,Cheese Pizza,5,2026-05-02,285,29,3.6,UPI
+1450,C450,Customer_450,Salem,Subway,Chicken Sub,25,2026-02-28,289,31,4.1,Card
+1451,C451,Customer_451,Salem,Dominos,Farmhouse Pizza,20,2026-11-16,657,25,4.3,Card
+1452,C452,Customer_452,Coimbatore,KFC,Hot Wings,15,2026-09-20,1357,57,3.8,Cash
+1453,C453,Customer_453,Trichy,Dominos,Margherita Pizza,0,2026-10-22,810,21,4.2,UPI
+1454,C454,Customer_454,Salem,Subway,Chicken Sub,10,2026-10-08,824,52,4.9,Card
+1455,C455,Customer_455,Madurai,Pizza Hut,Pepperoni Pizza,25,2026-04-25,826,56,4.5,UPI
+1456,C456,Customer_456,Erode,Burger King,Chicken Whopper,0,2026-07-07,1114,21,5.0,Cash
+1457,C457,Customer_457,Coimbatore,KFC,Chicken Bucket,10,2026-05-10,632,36,4.9,UPI
+1458,C458,Customer_458,Chennai,Burger King,Chicken Whopper,0,2026-04-28,1188,37,4.5,Card
+1459,C459,Customer_459,Coimbatore,Subway,Paneer Sub,20,2026-08-14,429,31,3.6,Card
+1460,C460,Customer_460,Erode,Subway,Paneer Sub,5,2026-04-17,669,30,4.1,Card
+1461,C461,Customer_461,Madurai,Dominos,Veg Extravaganza,5,2026-08-07,1190,20,4.3,Card
+1462,C462,Customer_462,Chennai,Dominos,Margherita Pizza,15,2026-07-27,491,22,4.5,Cash
+1463,C463,Customer_463,Chennai,Subway,Veg Sub,5,2026-05-20,948,60,4.0,Cash
+1464,C464,Customer_464,Erode,McDonalds,Big Mac Burger,0,2026-04-24,726,45,4.9,Cash
+1465,C465,Customer_465,Salem,Burger King,Veg Whopper,0,2026-03-31,611,31,4.5,UPI
+1466,C466,Customer_466,Madurai,Dominos,Veg Extravaganza,10,2026-12-19,958,27,3.7,UPI
+1467,C467,Customer_467,Coimbatore,Pizza Hut,Veggie Pizza,10,2026-12-17,1040,36,5.0,Cash
+1468,C468,Customer_468,Madurai,McDonalds,McVeggie,10,2026-06-30,1456,19,4.9,Card
+1469,C469,Customer_469,Erode,KFC,Zinger Burger,10,2026-05-25,259,21,4.4,UPI
+1470,C470,Customer_470,Erode,KFC,Chicken Bucket,20,2026-08-13,801,42,4.1,UPI
+1471,C471,Customer_471,Madurai,Dominos,Margherita Pizza,25,2026-10-28,625,45,4.5,Card
+1472,C472,Customer_472,Salem,Pizza Hut,Cheese Pizza,25,2026-03-26,1209,28,4.5,Cash
+1473,C473,Customer_473,Coimbatore,Dominos,Farmhouse Pizza,5,2026-05-09,1253,34,4.2,Card
+1474,C474,Customer_474,Erode,McDonalds,McChicken Burger,5,2026-05-23,281,34,4.3,Cash
+1475,C475,Customer_475,Madurai,McDonalds,McChicken Burger,10,2026-03-23,793,31,4.7,Card
+1476,C476,Customer_476,Coimbatore,KFC,Zinger Burger,25,2026-08-15,1213,25,4.8,Card
+1477,C477,Customer_477,Salem,Dominos,Veg Extravaganza,5,2026-06-12,304,48,4.6,UPI
+1478,C478,Customer_478,Salem,Pizza Hut,Veggie Pizza,25,2026-12-26,863,23,4.9,Card
+1479,C479,Customer_479,Erode,KFC,Zinger Burger,20,2026-08-11,693,48,3.6,Card
+1480,C480,Customer_480,Trichy,Dominos,Farmhouse Pizza,0,2026-03-28,775,57,4.4,UPI
+1481,C481,Customer_481,Coimbatore,Pizza Hut,Veggie Pizza,5,2026-01-23,279,46,4.1,Cash
+1482,C482,Customer_482,Trichy,Subway,Veg Sub,15,2026-05-28,1093,18,5.0,Card
+1483,C483,Customer_483,Erode,Pizza Hut,Veggie Pizza,15,2026-11-04,616,52,4.3,UPI
+1484,C484,Customer_484,Trichy,McDonalds,McChicken Burger,25,2026-04-02,682,48,4.9,Card
+1485,C485,Customer_485,Trichy,Dominos,Farmhouse Pizza,25,2026-07-22,646,31,4.7,Card
+1486,C486,Customer_486,Coimbatore,Dominos,Margherita Pizza,5,2026-11-13,717,43,4.5,Card
+1487,C487,Customer_487,Coimbatore,Dominos,Margherita Pizza,15,2026-03-31,721,50,3.8,UPI
+1488,C488,Customer_488,Madurai,Subway,Chicken Sub,0,2026-10-18,1230,34,3.5,Card
+1489,C489,Customer_489,Salem,McDonalds,McChicken Burger,5,2026-11-03,609,19,3.8,Cash
+1490,C490,Customer_490,Erode,Subway,Chicken Sub,15,2026-09-29,1360,16,3.8,Card
+1491,C491,Customer_491,Salem,Subway,Chicken Sub,0,2026-09-28,1051,54,4.7,UPI
+1492,C492,Customer_492,Trichy,Dominos,Farmhouse Pizza,25,2026-08-01,590,25,3.8,Cash
+1493,C493,Customer_493,Erode,Pizza Hut,Veggie Pizza,10,2026-12-07,712,27,4.3,Card
+1494,C494,Customer_494,Chennai,Pizza Hut,Veggie Pizza,10,2026-11-14,727,60,3.7,Cash
+1495,C495,Customer_495,Coimbatore,McDonalds,McVeggie,25,2026-05-22,1224,56,3.8,UPI
+1496,C496,Customer_496,Trichy,Burger King,Whopper Burger,0,2026-04-22,764,25,4.6,UPI
+1497,C497,Customer_497,Trichy,KFC,Hot Wings,0,2026-11-08,648,39,3.9,UPI
+1498,C498,Customer_498,Coimbatore,Subway,Paneer Sub,0,2026-01-17,515,46,4.9,Card
+1499,C499,Customer_499,Madurai,McDonalds,McChicken Burger,20,2026-04-12,786,32,4.7,Card
+1500,C500,Customer_500,Erode,Pizza Hut,Pepperoni Pizza,20,2026-07-02,489,39,3.6,Card
+1501,C001,Customer_1,Madurai,Dominos,Margherita Pizza,15,2026-06-07,282,32,4.0,UPI
+1502,C002,Customer_2,Trichy,Subway,Chicken Sub,15,2026-08-09,1083,42,4.6,Cash
+1503,C003,Customer_3,Madurai,Subway,Veg Sub,25,2026-08-10,1001,33,4.8,UPI
+1504,C004,Customer_4,Chennai,Subway,Chicken Sub,10,2026-07-07,1364,42,4.6,UPI
+1505,C005,Customer_5,Salem,Pizza Hut,Cheese Pizza,20,2026-04-13,430,29,4.8,Card
+1506,C006,Customer_6,Chennai,Pizza Hut,Veggie Pizza,5,2026-04-23,1468,21,4.5,Card
+1507,C007,Customer_7,Madurai,Burger King,Whopper Burger,15,2026-11-19,1191,51,4.9,UPI
+1508,C008,Customer_8,Chennai,Burger King,Chicken Whopper,5,2026-03-09,444,32,5.0,Cash
+1509,C009,Customer_9,Salem,Dominos,Farmhouse Pizza,10,2026-04-20,311,34,4.5,UPI
+1510,C010,Customer_10,Salem,KFC,Hot Wings,5,2026-10-29,1056,32,4.6,UPI
+1511,C011,Customer_11,Chennai,Dominos,Margherita Pizza,20,2026-08-02,643,40,4.3,Card
+1512,C012,Customer_12,Erode,KFC,Chicken Bucket,15,2026-05-05,617,19,4.5,UPI
+1513,C013,Customer_13,Erode,KFC,Hot Wings,25,2026-03-17,1322,31,4.9,Cash
+1514,C014,Customer_14,Salem,McDonalds,McChicken Burger,20,2026-05-23,567,57,4.4,Card
+1515,C015,Customer_15,Erode,Burger King,Chicken Whopper,20,2026-04-24,458,50,4.4,Card
+1516,C016,Customer_16,Madurai,Subway,Paneer Sub,5,2026-08-16,1351,40,4.0,Cash
+1517,C017,Customer_17,Salem,KFC,Chicken Bucket,10,2026-11-13,1148,25,4.5,Card
+1518,C018,Customer_18,Coimbatore,Burger King,Veg Whopper,5,2026-08-23,611,49,4.2,Card
+1519,C019,Customer_19,Chennai,Burger King,Whopper Burger,20,2026-04-23,778,21,4.7,UPI
+1520,C020,Customer_20,Chennai,Subway,Paneer Sub,20,2026-04-20,815,46,4.6,Card
+1521,C021,Customer_21,Trichy,KFC,Hot Wings,0,2026-06-08,813,54,3.8,UPI
+1522,C022,Customer_22,Coimbatore,Pizza Hut,Cheese Pizza,5,2026-11-28,415,25,4.3,Cash
+1523,C023,Customer_23,Chennai,Pizza Hut,Pepperoni Pizza,20,2026-09-11,1193,38,4.3,Card
+1524,C024,Customer_24,Trichy,Dominos,Veg Extravaganza,25,2026-08-12,997,30,4.3,UPI
+1525,C025,Customer_25,Trichy,Burger King,Whopper Burger,25,2026-04-13,846,17,5.0,UPI
+1526,C026,Customer_26,Trichy,Pizza Hut,Pepperoni Pizza,15,2026-03-16,494,31,5.0,Card
+1527,C027,Customer_27,Salem,Subway,Chicken Sub,0,2026-02-06,985,45,4.0,UPI
+1528,C028,Customer_28,Madurai,Burger King,Whopper Burger,15,2026-04-12,545,30,3.8,Cash
+1529,C029,Customer_29,Trichy,McDonalds,McVeggie,10,2026-09-02,1454,51,4.7,UPI
+1530,C030,Customer_30,Coimbatore,KFC,Chicken Bucket,20,2026-01-06,275,54,4.0,Cash
+1531,C031,Customer_31,Chennai,Subway,Paneer Sub,20,2026-02-11,1039,23,4.7,UPI
+1532,C032,Customer_32,Chennai,Subway,Paneer Sub,25,2026-07-03,1125,27,4.8,Card
+1533,C033,Customer_33,Madurai,Dominos,Farmhouse Pizza,0,2026-05-26,633,52,4.0,Cash
+1534,C034,Customer_34,Salem,Dominos,Farmhouse Pizza,15,2026-06-07,554,34,4.6,Cash
+1535,C035,Customer_35,Trichy,KFC,Zinger Burger,10,2026-04-19,283,18,4.9,Cash
+1536,C036,Customer_36,Erode,KFC,Zinger Burger,10,2027-01-01,275,32,4.7,Cash
+1537,C037,Customer_37,Salem,McDonalds,McVeggie,25,2026-05-08,224,23,5.0,Card
+1538,C038,Customer_38,Coimbatore,McDonalds,McChicken Burger,0,2026-07-17,426,34,4.5,UPI
+1539,C039,Customer_39,Erode,KFC,Hot Wings,15,2026-10-18,740,15,3.5,UPI
+1540,C040,Customer_40,Trichy,Pizza Hut,Pepperoni Pizza,10,2026-02-09,1424,30,4.3,Cash
+1541,C041,Customer_41,Chennai,KFC,Zinger Burger,5,2026-11-09,876,27,3.7,Cash
+1542,C042,Customer_42,Salem,Subway,Veg Sub,0,2026-11-02,769,32,4.0,UPI
+1543,C043,Customer_43,Salem,Subway,Veg Sub,15,2026-08-10,1014,34,4.5,Card
+1544,C044,Customer_44,Coimbatore,Pizza Hut,Cheese Pizza,10,2026-05-30,1173,26,5.0,UPI
+1545,C045,Customer_45,Chennai,McDonalds,McVeggie,0,2026-09-13,322,15,3.6,Card
+1546,C046,Customer_46,Trichy,Dominos,Margherita Pizza,5,2026-12-31,1002,54,4.9,UPI
+1547,C047,Customer_47,Erode,Burger King,Veg Whopper,5,2026-04-22,530,20,4.8,Card
+1548,C048,Customer_48,Salem,McDonalds,Big Mac Burger,20,2026-04-29,619,36,4.7,Cash
+1549,C049,Customer_49,Trichy,Pizza Hut,Pepperoni Pizza,15,2026-10-20,929,25,3.8,UPI
+1550,C050,Customer_50,Chennai,McDonalds,McVeggie,15,2026-11-09,362,44,4.1,UPI
+1551,C051,Customer_51,Trichy,Dominos,Veg Extravaganza,10,2026-06-18,1002,38,4.4,Card
+1552,C052,Customer_52,Erode,Burger King,Chicken Whopper,25,2026-02-06,589,41,4.0,Cash
+1553,C053,Customer_53,Coimbatore,Pizza Hut,Veggie Pizza,0,2026-08-18,874,15,3.8,Card
+1554,C054,Customer_54,Trichy,Pizza Hut,Veggie Pizza,5,2026-04-09,769,60,4.3,UPI
+1555,C055,Customer_55,Erode,KFC,Zinger Burger,0,2026-12-05,427,32,4.5,UPI
+1556,C056,Customer_56,Trichy,KFC,Hot Wings,20,2026-08-20,1367,30,4.9,Card
+1557,C057,Customer_57,Chennai,Dominos,Farmhouse Pizza,10,2026-09-15,797,39,4.9,Cash
+1558,C058,Customer_58,Chennai,Pizza Hut,Veggie Pizza,25,2026-09-18,677,42,4.2,Cash
+1559,C059,Customer_59,Coimbatore,Subway,Chicken Sub,20,2026-04-05,326,60,3.8,UPI
+1560,C060,Customer_60,Chennai,McDonalds,Big Mac Burger,25,2026-09-27,1278,56,4.1,Card
+1561,C061,Customer_61,Chennai,KFC,Chicken Bucket,5,2026-09-19,1290,18,4.5,Cash
+1562,C062,Customer_62,Salem,Dominos,Margherita Pizza,20,2026-05-17,670,38,4.0,Cash
+1563,C063,Customer_63,Salem,KFC,Zinger Burger,15,2026-07-02,1416,17,4.3,Cash
+1564,C064,Customer_64,Salem,Pizza Hut,Veggie Pizza,25,2026-06-11,837,34,4.5,Cash
+1565,C065,Customer_65,Coimbatore,Pizza Hut,Cheese Pizza,15,2026-05-31,445,52,4.9,Cash
+1566,C066,Customer_66,Trichy,Dominos,Margherita Pizza,15,2026-02-07,627,22,4.4,UPI
+1567,C067,Customer_67,Salem,Pizza Hut,Pepperoni Pizza,10,2026-04-20,806,33,4.8,Card
+1568,C068,Customer_68,Erode,Subway,Chicken Sub,25,2026-09-18,630,59,4.2,UPI
+1569,C069,Customer_69,Salem,Subway,Veg Sub,10,2026-11-15,1120,28,4.6,Card
+1570,C070,Customer_70,Trichy,KFC,Hot Wings,25,2026-07-22,968,44,3.8,Card
+1571,C071,Customer_71,Coimbatore,Dominos,Farmhouse Pizza,15,2026-09-10,920,22,4.4,Cash
+1572,C072,Customer_72,Salem,Subway,Veg Sub,25,2026-08-17,994,28,4.1,Cash
+1573,C073,Customer_73,Trichy,KFC,Hot Wings,15,2026-08-06,965,48,3.7,UPI
+1574,C074,Customer_74,Trichy,Burger King,Whopper Burger,0,2026-10-26,634,47,4.3,Cash
+1575,C075,Customer_75,Trichy,Pizza Hut,Cheese Pizza,10,2026-09-01,475,16,4.6,Card
+1576,C076,Customer_76,Trichy,Subway,Chicken Sub,10,2026-08-12,944,28,4.7,Card
+1577,C077,Customer_77,Trichy,KFC,Zinger Burger,20,2026-08-31,755,58,4.4,Card
+1578,C078,Customer_78,Madurai,McDonalds,Big Mac Burger,0,2026-06-16,1116,58,4.5,Card
+1579,C079,Customer_79,Chennai,Burger King,Chicken Whopper,10,2026-05-08,517,25,3.9,UPI
+1580,C080,Customer_80,Salem,Pizza Hut,Veggie Pizza,15,2026-07-23,661,23,3.6,UPI
+1581,C081,Customer_81,Erode,Pizza Hut,Veggie Pizza,15,2026-04-23,798,53,4.1,UPI
+1582,C082,Customer_82,Chennai,McDonalds,Big Mac Burger,25,2026-08-09,776,57,4.0,Card
+1583,C083,Customer_83,Salem,Burger King,Chicken Whopper,25,2026-12-16,504,21,4.8,UPI
+1584,C084,Customer_84,Madurai,Burger King,Veg Whopper,0,2026-01-30,934,56,4.0,UPI
+1585,C085,Customer_85,Madurai,McDonalds,Big Mac Burger,10,2026-05-26,1344,55,3.8,Cash
+1586,C086,Customer_86,Chennai,McDonalds,McChicken Burger,20,2026-06-23,1337,20,4.8,UPI
+1587,C087,Customer_87,Chennai,KFC,Zinger Burger,10,2026-06-23,1164,25,3.9,Card
+1588,C088,Customer_88,Erode,Dominos,Veg Extravaganza,20,2026-10-19,247,41,4.3,Card
+1589,C089,Customer_89,Erode,Dominos,Veg Extravaganza,15,2026-02-24,454,51,4.4,Card
+1590,C090,Customer_90,Madurai,Dominos,Margherita Pizza,10,2026-10-27,266,41,4.2,Cash
+1591,C091,Customer_91,Chennai,McDonalds,Big Mac Burger,5,2026-08-30,1164,31,4.1,Cash
+1592,C092,Customer_92,Madurai,Dominos,Farmhouse Pizza,20,2026-09-22,804,20,3.6,Card
+1593,C093,Customer_93,Coimbatore,KFC,Chicken Bucket,0,2026-08-22,940,22,4.4,Card
+1594,C094,Customer_94,Salem,Subway,Veg Sub,20,2026-06-12,524,25,4.0,UPI
+1595,C095,Customer_95,Trichy,KFC,Zinger Burger,20,2026-10-26,334,46,4.3,Cash
+1596,C096,Customer_96,Madurai,Pizza Hut,Cheese Pizza,20,2026-11-23,1275,45,4.7,Cash
+1597,C097,Customer_97,Salem,KFC,Chicken Bucket,10,2026-04-01,507,28,4.8,UPI
+1598,C098,Customer_98,Chennai,Subway,Paneer Sub,5,2026-02-13,1192,47,4.3,Card
+1599,C099,Customer_99,Trichy,Burger King,Chicken Whopper,15,2026-10-06,1232,58,4.5,Card
+1600,C100,Customer_100,Madurai,McDonalds,Big Mac Burger,25,2026-12-06,605,39,3.6,Card
+1601,C101,Customer_101,Chennai,Burger King,Veg Whopper,5,2026-03-21,999,43,4.4,Cash
+1602,C102,Customer_102,Coimbatore,Dominos,Veg Extravaganza,5,2026-12-08,519,33,4.4,Cash
+1603,C103,Customer_103,Madurai,Burger King,Veg Whopper,5,2026-11-04,1500,19,4.5,Cash
+1604,C104,Customer_104,Trichy,Pizza Hut,Pepperoni Pizza,0,2026-01-01,261,57,3.6,UPI
+1605,C105,Customer_105,Erode,KFC,Zinger Burger,0,2026-04-17,1082,36,4.5,Cash
+1606,C106,Customer_106,Chennai,McDonalds,McVeggie,5,2026-07-29,364,37,3.7,Card
+1607,C107,Customer_107,Erode,McDonalds,Big Mac Burger,0,2026-12-05,314,24,4.1,Cash
+1608,C108,Customer_108,Chennai,Subway,Veg Sub,0,2026-12-09,528,44,5.0,Cash
+1609,C109,Customer_109,Coimbatore,Dominos,Veg Extravaganza,20,2026-05-31,835,24,4.2,UPI
+1610,C110,Customer_110,Chennai,McDonalds,Big Mac Burger,20,2026-06-11,248,24,3.9,UPI
+1611,C111,Customer_111,Trichy,McDonalds,McVeggie,15,2026-09-13,592,19,3.7,UPI
+1612,C112,Customer_112,Chennai,Subway,Veg Sub,25,2026-03-31,698,52,4.4,UPI
+1613,C113,Customer_113,Chennai,Dominos,Veg Extravaganza,10,2026-11-30,549,32,4.7,UPI
+1614,C114,Customer_114,Chennai,McDonalds,McChicken Burger,10,2026-10-07,477,34,3.7,Cash
+1615,C115,Customer_115,Coimbatore,Dominos,Veg Extravaganza,0,2026-04-17,1101,40,4.5,UPI
+1616,C116,Customer_116,Madurai,Dominos,Farmhouse Pizza,25,2026-01-04,801,59,4.2,Card
+1617,C117,Customer_117,Chennai,KFC,Zinger Burger,20,2026-04-13,1262,49,4.5,UPI
+1618,C118,Customer_118,Trichy,Pizza Hut,Veggie Pizza,5,2026-07-06,1206,29,3.6,UPI
+1619,C119,Customer_119,Salem,McDonalds,McVeggie,0,2026-04-19,1084,36,4.6,Card
+1620,C120,Customer_120,Madurai,Pizza Hut,Veggie Pizza,20,2026-11-12,1119,38,3.6,Cash
+1621,C121,Customer_121,Chennai,McDonalds,McVeggie,25,2026-02-25,1050,27,4.0,UPI
+1622,C122,Customer_122,Trichy,Subway,Veg Sub,5,2026-07-16,599,34,5.0,Card
+1623,C123,Customer_123,Coimbatore,Subway,Veg Sub,0,2026-12-14,711,53,3.9,UPI
+1624,C124,Customer_124,Trichy,Subway,Veg Sub,0,2026-06-28,516,59,4.3,Card
+1625,C125,Customer_125,Madurai,Pizza Hut,Veggie Pizza,0,2026-04-26,1427,37,3.6,UPI
+1626,C126,Customer_126,Chennai,KFC,Zinger Burger,5,2026-07-13,1021,52,4.0,UPI
+1627,C127,Customer_127,Erode,Dominos,Farmhouse Pizza,20,2026-07-01,789,59,4.1,Card
+1628,C128,Customer_128,Salem,McDonalds,Big Mac Burger,15,2026-06-04,759,18,4.5,Cash
+1629,C129,Customer_129,Coimbatore,Pizza Hut,Pepperoni Pizza,15,2026-06-12,1077,44,4.4,Cash
+1630,C130,Customer_130,Chennai,Burger King,Whopper Burger,20,2026-01-22,1021,31,3.8,UPI
+1631,C131,Customer_131,Salem,Subway,Chicken Sub,5,2026-08-04,1063,51,3.9,Cash
+1632,C132,Customer_132,Salem,KFC,Zinger Burger,5,2026-12-26,772,51,4.8,Card
+1633,C133,Customer_133,Salem,Pizza Hut,Pepperoni Pizza,10,2026-09-19,483,24,4.1,Card
+1634,C134,Customer_134,Trichy,Burger King,Veg Whopper,20,2026-01-23,992,21,4.5,Cash
+1635,C135,Customer_135,Madurai,McDonalds,McChicken Burger,0,2026-12-02,1290,42,4.7,Card
+1636,C136,Customer_136,Coimbatore,Dominos,Veg Extravaganza,0,2026-05-30,731,35,5.0,UPI
+1637,C137,Customer_137,Erode,KFC,Chicken Bucket,5,2026-06-11,398,25,4.0,Card
+1638,C138,Customer_138,Chennai,Burger King,Whopper Burger,20,2026-09-11,1266,19,4.1,Cash
+1639,C139,Customer_139,Madurai,KFC,Zinger Burger,20,2026-06-17,777,46,5.0,UPI
+1640,C140,Customer_140,Chennai,Burger King,Whopper Burger,25,2026-02-15,620,53,4.4,Cash
+1641,C141,Customer_141,Madurai,McDonalds,McVeggie,5,2026-03-31,471,42,4.6,UPI
+1642,C142,Customer_142,Trichy,McDonalds,McVeggie,25,2026-06-09,714,38,4.1,Card
+1643,C143,Customer_143,Madurai,Pizza Hut,Cheese Pizza,15,2026-07-08,867,54,4.6,UPI
+1644,C144,Customer_144,Trichy,KFC,Zinger Burger,10,2026-11-23,717,42,4.9,Card
+1645,C145,Customer_145,Salem,Burger King,Veg Whopper,20,2026-09-10,905,46,3.7,UPI
+1646,C146,Customer_146,Trichy,Subway,Paneer Sub,5,2026-04-30,882,19,4.5,Cash
+1647,C147,Customer_147,Coimbatore,Burger King,Whopper Burger,15,2026-11-17,1039,34,3.9,Cash
+1648,C148,Customer_148,Trichy,Dominos,Farmhouse Pizza,10,2026-02-11,738,46,4.6,Card
+1649,C149,Customer_149,Madurai,Dominos,Farmhouse Pizza,15,2026-09-29,506,35,3.7,Cash
+1650,C150,Customer_150,Salem,Pizza Hut,Pepperoni Pizza,10,2026-03-15,1160,55,4.3,Card
+1651,C151,Customer_151,Chennai,Burger King,Veg Whopper,5,2026-02-01,587,60,4.1,Cash
+1652,C152,Customer_152,Coimbatore,Subway,Paneer Sub,10,2026-01-19,1092,20,3.8,Cash
+1653,C153,Customer_153,Madurai,McDonalds,McChicken Burger,5,2026-06-03,1084,37,4.8,Card
+1654,C154,Customer_154,Trichy,Subway,Paneer Sub,0,2026-12-12,961,17,4.7,UPI
+1655,C155,Customer_155,Erode,Subway,Veg Sub,20,2026-05-13,234,31,4.9,Card
+1656,C156,Customer_156,Madurai,Dominos,Farmhouse Pizza,10,2026-10-07,772,38,3.7,UPI
+1657,C157,Customer_157,Madurai,Dominos,Farmhouse Pizza,10,2026-01-04,1155,55,3.9,Card
+1658,C158,Customer_158,Chennai,KFC,Zinger Burger,5,2026-05-25,905,29,4.5,Cash
+1659,C159,Customer_159,Chennai,Subway,Chicken Sub,0,2026-11-06,1130,32,4.5,Card
+1660,C160,Customer_160,Madurai,Pizza Hut,Cheese Pizza,15,2026-08-05,339,29,4.0,UPI
+1661,C161,Customer_161,Salem,McDonalds,McVeggie,15,2026-10-07,1223,36,3.7,UPI
+1662,C162,Customer_162,Coimbatore,Dominos,Farmhouse Pizza,15,2026-08-28,852,44,4.3,Card
+1663,C163,Customer_163,Coimbatore,Burger King,Chicken Whopper,20,2026-11-27,432,60,4.4,UPI
+1664,C164,Customer_164,Salem,Pizza Hut,Veggie Pizza,5,2026-07-15,397,42,4.9,Cash
+1665,C165,Customer_165,Chennai,KFC,Chicken Bucket,20,2026-12-14,1464,22,4.9,UPI
+1666,C166,Customer_166,Trichy,Dominos,Farmhouse Pizza,0,2026-12-13,1393,50,4.5,Card
+1667,C167,Customer_167,Madurai,Subway,Veg Sub,15,2026-11-28,1123,34,4.6,Card
+1668,C168,Customer_168,Madurai,Pizza Hut,Veggie Pizza,20,2026-11-08,473,44,4.4,Card
+1669,C169,Customer_169,Coimbatore,Dominos,Farmhouse Pizza,25,2026-03-14,742,57,3.6,UPI
+1670,C170,Customer_170,Trichy,Subway,Veg Sub,0,2026-06-17,892,17,3.7,Card
+1671,C171,Customer_171,Salem,Burger King,Veg Whopper,20,2026-10-17,1022,22,4.8,Card
+1672,C172,Customer_172,Salem,Dominos,Margherita Pizza,5,2026-09-16,1195,56,4.1,Card
+1673,C173,Customer_173,Coimbatore,KFC,Hot Wings,5,2026-10-19,1359,23,4.3,UPI
+1674,C174,Customer_174,Chennai,Burger King,Chicken Whopper,5,2026-01-16,635,46,4.3,Card
+1675,C175,Customer_175,Madurai,McDonalds,McVeggie,15,2026-09-29,201,41,4.8,Cash
+1676,C176,Customer_176,Coimbatore,Pizza Hut,Veggie Pizza,0,2026-09-27,863,21,4.7,UPI
+1677,C177,Customer_177,Coimbatore,Pizza Hut,Pepperoni Pizza,20,2026-08-28,1362,50,4.1,UPI
+1678,C178,Customer_178,Trichy,Subway,Chicken Sub,0,2026-12-31,916,40,4.2,Card
+1679,C179,Customer_179,Erode,Subway,Paneer Sub,15,2026-07-12,1299,16,4.8,Card
+1680,C180,Customer_180,Chennai,McDonalds,Big Mac Burger,0,2026-06-29,357,60,3.8,Card
+1681,C181,Customer_181,Chennai,Dominos,Margherita Pizza,15,2026-02-08,543,55,3.9,Card
+1682,C182,Customer_182,Coimbatore,Subway,Veg Sub,5,2026-01-23,798,56,4.2,Cash
+1683,C183,Customer_183,Erode,Pizza Hut,Cheese Pizza,5,2026-01-06,822,45,3.7,UPI
+1684,C184,Customer_184,Coimbatore,KFC,Chicken Bucket,10,2026-03-28,1002,55,4.7,Cash
+1685,C185,Customer_185,Trichy,McDonalds,Big Mac Burger,15,2026-07-23,391,37,4.4,UPI
+1686,C186,Customer_186,Erode,Dominos,Veg Extravaganza,5,2026-08-21,1474,23,4.9,Card
+1687,C187,Customer_187,Coimbatore,KFC,Zinger Burger,10,2026-01-02,493,27,3.9,Cash
+1688,C188,Customer_188,Salem,Dominos,Veg Extravaganza,0,2026-08-24,782,29,4.3,Cash
+1689,C189,Customer_189,Trichy,Dominos,Margherita Pizza,20,2026-03-18,615,26,4.8,Card
+1690,C190,Customer_190,Chennai,KFC,Zinger Burger,10,2026-01-27,1114,54,4.3,Cash
+1691,C191,Customer_191,Erode,McDonalds,Big Mac Burger,20,2026-11-12,1268,18,3.9,Card
+1692,C192,Customer_192,Chennai,Pizza Hut,Veggie Pizza,10,2026-02-27,826,24,3.9,Card
+1693,C193,Customer_193,Salem,McDonalds,Big Mac Burger,0,2026-07-09,1227,26,3.6,UPI
+1694,C194,Customer_194,Salem,Dominos,Margherita Pizza,10,2026-05-07,262,33,4.2,Cash
+1695,C195,Customer_195,Trichy,Burger King,Veg Whopper,10,2026-10-28,383,27,3.8,Cash
+1696,C196,Customer_196,Salem,Subway,Paneer Sub,5,2026-07-04,597,44,4.1,Card
+1697,C197,Customer_197,Erode,Burger King,Whopper Burger,5,2026-04-30,394,30,3.6,Card
+1698,C198,Customer_198,Coimbatore,Burger King,Whopper Burger,0,2026-10-28,1423,38,4.9,Cash
+1699,C199,Customer_199,Trichy,McDonalds,McChicken Burger,0,2026-03-27,1032,28,4.2,UPI
+1700,C200,Customer_200,Salem,KFC,Zinger Burger,0,2026-07-15,515,51,3.9,Card
+1701,C201,Customer_201,Erode,McDonalds,McVeggie,25,2026-10-21,1180,39,3.7,Cash
+1702,C202,Customer_202,Madurai,McDonalds,McChicken Burger,25,2026-07-22,634,52,4.0,UPI
+1703,C203,Customer_203,Coimbatore,Subway,Paneer Sub,25,2026-04-11,1424,17,4.9,Card
+1704,C204,Customer_204,Coimbatore,McDonalds,Big Mac Burger,25,2026-03-09,617,38,4.2,Card
+1705,C205,Customer_205,Salem,Burger King,Whopper Burger,25,2026-08-23,474,44,4.2,UPI
+1706,C206,Customer_206,Coimbatore,McDonalds,McVeggie,5,2026-05-26,443,35,3.8,Card
+1707,C207,Customer_207,Salem,KFC,Zinger Burger,5,2026-08-04,472,47,4.7,UPI
+1708,C208,Customer_208,Salem,Pizza Hut,Cheese Pizza,5,2026-07-21,908,54,4.6,Card
+1709,C209,Customer_209,Chennai,Burger King,Chicken Whopper,25,2026-02-17,1271,29,4.6,UPI
+1710,C210,Customer_210,Madurai,Pizza Hut,Cheese Pizza,25,2026-06-12,717,50,5.0,UPI
+1711,C211,Customer_211,Erode,Burger King,Chicken Whopper,25,2026-05-14,249,39,4.6,Card
+1712,C212,Customer_212,Chennai,KFC,Hot Wings,10,2026-02-20,1033,22,4.6,Card
+1713,C213,Customer_213,Madurai,Dominos,Margherita Pizza,20,2026-02-10,655,36,4.9,Cash
+1714,C214,Customer_214,Trichy,Subway,Paneer Sub,10,2027-01-01,713,30,5.0,UPI
+1715,C215,Customer_215,Trichy,KFC,Zinger Burger,20,2026-01-24,704,27,4.4,Cash
+1716,C216,Customer_216,Chennai,McDonalds,Big Mac Burger,5,2026-08-04,307,47,4.0,Cash
+1717,C217,Customer_217,Coimbatore,Subway,Paneer Sub,25,2026-12-29,1094,29,4.0,Card
+1718,C218,Customer_218,Chennai,Dominos,Farmhouse Pizza,5,2026-07-02,1482,38,3.6,Cash
+1719,C219,Customer_219,Madurai,Pizza Hut,Cheese Pizza,0,2026-08-23,1156,57,3.7,Cash
+1720,C220,Customer_220,Salem,Subway,Chicken Sub,10,2026-08-05,684,37,4.6,Card
+1721,C221,Customer_221,Erode,Pizza Hut,Pepperoni Pizza,5,2026-05-04,402,29,3.9,UPI
+1722,C222,Customer_222,Chennai,Burger King,Veg Whopper,10,2026-07-08,279,59,4.5,Card
+1723,C223,Customer_223,Coimbatore,Burger King,Veg Whopper,25,2026-10-10,1369,41,4.0,Card
+1724,C224,Customer_224,Salem,Pizza Hut,Pepperoni Pizza,0,2026-10-13,751,34,4.9,UPI
+1725,C225,Customer_225,Erode,Pizza Hut,Veggie Pizza,5,2026-05-06,771,20,4.1,Cash
+1726,C226,Customer_226,Coimbatore,Burger King,Veg Whopper,20,2026-09-06,389,41,3.8,UPI
+1727,C227,Customer_227,Salem,Pizza Hut,Veggie Pizza,10,2026-10-19,1313,20,3.5,Card
+1728,C228,Customer_228,Madurai,KFC,Chicken Bucket,5,2026-01-17,1103,23,3.6,Card
+1729,C229,Customer_229,Salem,Dominos,Margherita Pizza,15,2026-03-06,1212,42,4.2,UPI
+1730,C230,Customer_230,Coimbatore,Burger King,Chicken Whopper,25,2026-03-02,1422,20,4.8,Cash
+1731,C231,Customer_231,Erode,Burger King,Veg Whopper,0,2026-04-30,1304,57,4.3,UPI
+1732,C232,Customer_232,Salem,Pizza Hut,Pepperoni Pizza,10,2026-12-10,984,50,4.7,UPI
+1733,C233,Customer_233,Madurai,Burger King,Veg Whopper,10,2026-04-16,1074,45,3.6,Card
+1734,C234,Customer_234,Trichy,Dominos,Veg Extravaganza,25,2026-02-23,818,29,4.4,Card
+1735,C235,Customer_235,Madurai,Dominos,Margherita Pizza,25,2026-10-28,384,30,3.6,Cash
+1736,C236,Customer_236,Erode,Pizza Hut,Cheese Pizza,20,2026-01-17,494,46,4.2,Card
+1737,C237,Customer_237,Erode,KFC,Chicken Bucket,5,2026-05-18,1310,15,4.2,Cash
+1738,C238,Customer_238,Madurai,Burger King,Whopper Burger,5,2026-06-11,1019,43,3.9,Cash
+1739,C239,Customer_239,Erode,Pizza Hut,Cheese Pizza,25,2026-07-23,1465,51,3.6,UPI
+1740,C240,Customer_240,Chennai,Burger King,Whopper Burger,20,2026-12-11,911,42,4.3,UPI
+1741,C241,Customer_241,Salem,Dominos,Margherita Pizza,25,2026-06-19,691,27,4.3,Cash
+1742,C242,Customer_242,Erode,Dominos,Margherita Pizza,0,2026-06-03,713,52,4.8,Cash
+1743,C243,Customer_243,Coimbatore,McDonalds,McChicken Burger,10,2026-04-16,203,54,4.4,UPI
+1744,C244,Customer_244,Madurai,KFC,Chicken Bucket,5,2026-01-09,742,38,4.9,UPI
+1745,C245,Customer_245,Trichy,Pizza Hut,Pepperoni Pizza,5,2026-08-03,1401,27,4.1,Card
+1746,C246,Customer_246,Chennai,Dominos,Veg Extravaganza,0,2026-11-18,625,21,3.6,UPI
+1747,C247,Customer_247,Madurai,Burger King,Chicken Whopper,10,2026-04-05,1406,57,3.8,Cash
+1748,C248,Customer_248,Madurai,KFC,Hot Wings,0,2026-08-18,574,33,3.9,Card
+1749,C249,Customer_249,Erode,KFC,Hot Wings,0,2026-04-28,645,32,3.9,Cash
+1750,C250,Customer_250,Madurai,Subway,Chicken Sub,25,2026-05-24,681,38,4.8,Card
+1751,C251,Customer_251,Chennai,Pizza Hut,Cheese Pizza,20,2026-12-13,1284,35,3.6,UPI
+1752,C252,Customer_252,Chennai,Burger King,Veg Whopper,0,2026-10-06,350,41,4.9,Cash
+1753,C253,Customer_253,Erode,Pizza Hut,Cheese Pizza,0,2026-04-14,320,40,3.8,Cash
+1754,C254,Customer_254,Madurai,KFC,Hot Wings,25,2026-09-19,1460,47,4.4,Card
+1755,C255,Customer_255,Salem,Subway,Paneer Sub,25,2026-12-14,802,47,4.7,Card
+1756,C256,Customer_256,Chennai,McDonalds,McChicken Burger,25,2026-10-05,704,27,3.6,UPI
+1757,C257,Customer_257,Coimbatore,Dominos,Veg Extravaganza,15,2026-04-25,1208,56,3.9,UPI
+1758,C258,Customer_258,Coimbatore,Pizza Hut,Cheese Pizza,15,2026-08-02,618,18,3.9,UPI
+1759,C259,Customer_259,Chennai,KFC,Zinger Burger,25,2026-12-04,1306,58,3.9,Cash
+1760,C260,Customer_260,Madurai,Pizza Hut,Veggie Pizza,10,2026-07-11,841,31,3.8,Card
+1761,C261,Customer_261,Coimbatore,Subway,Veg Sub,20,2026-04-18,395,57,4.4,UPI
+1762,C262,Customer_262,Chennai,McDonalds,McVeggie,20,2026-08-17,1017,31,5.0,Card
+1763,C263,Customer_263,Chennai,McDonalds,McChicken Burger,0,2026-04-16,991,28,4.1,Cash
+1764,C264,Customer_264,Salem,Burger King,Chicken Whopper,25,2026-08-28,632,22,3.7,Card
+1765,C265,Customer_265,Madurai,Dominos,Veg Extravaganza,20,2026-05-06,1156,45,4.3,UPI
+1766,C266,Customer_266,Coimbatore,Dominos,Margherita Pizza,20,2026-08-24,479,46,4.1,Cash
+1767,C267,Customer_267,Erode,KFC,Chicken Bucket,10,2026-04-11,1180,32,4.6,Cash
+1768,C268,Customer_268,Erode,Pizza Hut,Veggie Pizza,20,2026-08-02,298,24,3.8,Card
+1769,C269,Customer_269,Trichy,Pizza Hut,Pepperoni Pizza,5,2026-11-28,249,39,3.9,UPI
+1770,C270,Customer_270,Chennai,McDonalds,Big Mac Burger,10,2026-09-18,678,57,4.0,Card
+1771,C271,Customer_271,Chennai,Burger King,Chicken Whopper,5,2026-12-26,306,28,4.4,Card
+1772,C272,Customer_272,Trichy,McDonalds,McChicken Burger,0,2026-12-11,1009,20,3.7,UPI
+1773,C273,Customer_273,Coimbatore,McDonalds,Big Mac Burger,0,2026-12-21,1187,44,4.0,Card
+1774,C274,Customer_274,Erode,Burger King,Chicken Whopper,20,2026-04-22,1313,23,3.9,Cash
+1775,C275,Customer_275,Chennai,Dominos,Farmhouse Pizza,10,2026-10-01,1149,36,4.4,Card
+1776,C276,Customer_276,Madurai,Dominos,Veg Extravaganza,15,2026-03-09,254,42,4.1,Card
+1777,C277,Customer_277,Trichy,Burger King,Veg Whopper,5,2026-10-30,1017,59,3.5,Cash
+1778,C278,Customer_278,Coimbatore,Pizza Hut,Cheese Pizza,15,2026-06-08,361,18,4.9,Card
+1779,C279,Customer_279,Chennai,KFC,Chicken Bucket,10,2026-08-30,695,54,4.9,Cash
+1780,C280,Customer_280,Salem,Dominos,Margherita Pizza,15,2026-08-23,1156,42,3.9,UPI
+1781,C281,Customer_281,Chennai,Dominos,Farmhouse Pizza,10,2026-04-28,251,21,3.8,Cash
+1782,C282,Customer_282,Madurai,McDonalds,McChicken Burger,10,2026-02-26,1492,44,3.7,Card
+1783,C283,Customer_283,Erode,McDonalds,McVeggie,10,2026-01-19,808,27,3.9,Cash
+1784,C284,Customer_284,Erode,Subway,Veg Sub,0,2026-06-10,1135,22,3.6,Card
+1785,C285,Customer_285,Salem,McDonalds,Big Mac Burger,25,2026-12-25,1233,34,4.1,Card
+1786,C286,Customer_286,Chennai,Pizza Hut,Pepperoni Pizza,15,2026-06-17,534,53,3.8,Card
+1787,C287,Customer_287,Erode,KFC,Zinger Burger,20,2026-07-23,424,34,5.0,UPI
+1788,C288,Customer_288,Madurai,Burger King,Whopper Burger,20,2026-08-11,1204,55,3.7,UPI
+1789,C289,Customer_289,Erode,Dominos,Veg Extravaganza,20,2026-09-03,1369,53,4.3,UPI
+1790,C290,Customer_290,Erode,Dominos,Farmhouse Pizza,15,2026-12-17,1371,44,3.9,Card
+1791,C291,Customer_291,Coimbatore,Burger King,Chicken Whopper,10,2026-10-18,269,26,4.1,Card
+1792,C292,Customer_292,Coimbatore,Subway,Chicken Sub,10,2026-05-05,335,54,3.9,Card
+1793,C293,Customer_293,Salem,Burger King,Veg Whopper,15,2026-09-04,535,20,4.5,Cash
+1794,C294,Customer_294,Chennai,Burger King,Whopper Burger,20,2026-10-25,1270,36,3.9,Cash
+1795,C295,Customer_295,Chennai,Burger King,Chicken Whopper,25,2026-03-28,497,58,4.6,Cash
+1796,C296,Customer_296,Coimbatore,Burger King,Chicken Whopper,25,2026-04-13,1440,44,4.5,UPI
+1797,C297,Customer_297,Chennai,Dominos,Margherita Pizza,0,2026-02-09,992,38,4.9,UPI
+1798,C298,Customer_298,Salem,KFC,Zinger Burger,0,2026-05-06,327,40,3.7,Card
+1799,C299,Customer_299,Erode,Burger King,Whopper Burger,15,2026-09-25,392,35,4.2,UPI
+1800,C300,Customer_300,Chennai,Pizza Hut,Cheese Pizza,20,2026-02-10,1086,53,4.4,UPI
+1801,C301,Customer_301,Erode,McDonalds,McChicken Burger,5,2026-07-23,1216,40,4.1,UPI
+1802,C302,Customer_302,Erode,Pizza Hut,Cheese Pizza,20,2026-03-22,497,36,3.8,Card
+1803,C303,Customer_303,Coimbatore,Pizza Hut,Pepperoni Pizza,10,2026-07-10,942,20,4.7,Card
+1804,C304,Customer_304,Trichy,KFC,Hot Wings,0,2026-03-14,301,34,3.9,UPI
+1805,C305,Customer_305,Chennai,Dominos,Margherita Pizza,5,2026-06-12,631,25,4.2,Card
+1806,C306,Customer_306,Chennai,McDonalds,McChicken Burger,20,2026-04-04,1142,16,4.4,Cash
+1807,C307,Customer_307,Salem,Subway,Veg Sub,25,2026-03-14,1048,57,3.9,UPI
+1808,C308,Customer_308,Salem,Dominos,Veg Extravaganza,20,2026-09-20,1306,60,4.1,Card
+1809,C309,Customer_309,Madurai,Subway,Chicken Sub,15,2026-08-27,1387,54,4.9,Cash
+1810,C310,Customer_310,Salem,McDonalds,McChicken Burger,5,2026-01-23,686,22,3.8,UPI
+1811,C311,Customer_311,Madurai,Subway,Paneer Sub,25,2026-03-07,1356,29,4.3,UPI
+1812,C312,Customer_312,Trichy,Pizza Hut,Veggie Pizza,25,2026-03-20,1486,22,4.1,Card
+1813,C313,Customer_313,Salem,Subway,Chicken Sub,15,2026-11-23,1199,18,3.9,Card
+1814,C314,Customer_314,Erode,KFC,Hot Wings,15,2026-02-04,851,20,4.9,Card
+1815,C315,Customer_315,Erode,Subway,Paneer Sub,25,2026-03-08,1315,55,3.6,UPI
+1816,C316,Customer_316,Erode,KFC,Hot Wings,5,2026-03-30,250,54,4.3,UPI
+1817,C317,Customer_317,Erode,Dominos,Farmhouse Pizza,15,2026-01-25,1274,56,4.5,UPI
+1818,C318,Customer_318,Madurai,Pizza Hut,Veggie Pizza,25,2026-01-10,764,37,4.2,Card
+1819,C319,Customer_319,Chennai,Dominos,Margherita Pizza,20,2026-01-03,1381,40,3.8,Cash
+1820,C320,Customer_320,Chennai,KFC,Zinger Burger,0,2026-06-28,1272,58,4.9,Card
+1821,C321,Customer_321,Salem,Burger King,Chicken Whopper,20,2026-10-04,562,47,4.9,UPI
+1822,C322,Customer_322,Salem,McDonalds,McVeggie,0,2026-10-20,859,49,4.2,Cash
+1823,C323,Customer_323,Coimbatore,Burger King,Veg Whopper,10,2026-09-17,1099,49,4.2,UPI
+1824,C324,Customer_324,Erode,McDonalds,McChicken Burger,0,2026-12-08,785,17,4.4,Card
+1825,C325,Customer_325,Chennai,Subway,Paneer Sub,20,2026-12-01,862,57,3.9,UPI
+1826,C326,Customer_326,Coimbatore,Burger King,Veg Whopper,5,2026-05-05,999,49,4.4,Card
+1827,C327,Customer_327,Chennai,Subway,Paneer Sub,0,2026-12-16,719,30,4.0,Card
+1828,C328,Customer_328,Salem,Pizza Hut,Pepperoni Pizza,5,2026-09-06,863,44,4.1,UPI
+1829,C329,Customer_329,Erode,Burger King,Veg Whopper,0,2026-08-11,606,40,4.3,Cash
+1830,C330,Customer_330,Erode,McDonalds,McVeggie,5,2026-03-10,973,18,3.5,Cash
+1831,C331,Customer_331,Madurai,Dominos,Margherita Pizza,10,2026-09-21,1112,35,5.0,UPI
+1832,C332,Customer_332,Trichy,Subway,Veg Sub,25,2026-08-14,1474,28,4.5,Card
+1833,C333,Customer_333,Trichy,McDonalds,McChicken Burger,10,2026-05-21,530,34,4.5,Cash
+1834,C334,Customer_334,Erode,Burger King,Whopper Burger,20,2026-11-13,1182,51,4.4,UPI
+1835,C335,Customer_335,Madurai,Dominos,Margherita Pizza,15,2026-09-16,1316,25,3.7,Cash
+1836,C336,Customer_336,Erode,McDonalds,McVeggie,15,2026-10-25,659,48,3.6,Card
+1837,C337,Customer_337,Salem,KFC,Chicken Bucket,15,2026-05-09,1380,47,4.9,UPI
+1838,C338,Customer_338,Erode,McDonalds,McVeggie,15,2026-05-05,1083,24,4.3,Card
+1839,C339,Customer_339,Madurai,Dominos,Farmhouse Pizza,15,2026-10-04,1381,50,3.6,UPI
+1840,C340,Customer_340,Salem,Pizza Hut,Cheese Pizza,15,2026-01-17,388,49,4.0,Card
+1841,C341,Customer_341,Madurai,Subway,Paneer Sub,25,2026-12-10,521,40,3.6,Card
+1842,C342,Customer_342,Madurai,Subway,Paneer Sub,15,2026-01-08,697,49,3.7,Card
+1843,C343,Customer_343,Chennai,Pizza Hut,Pepperoni Pizza,25,2026-08-25,602,40,4.5,Card
+1844,C344,Customer_344,Coimbatore,Dominos,Margherita Pizza,0,2026-09-07,1056,23,4.7,UPI
+1845,C345,Customer_345,Chennai,Subway,Chicken Sub,15,2026-05-26,362,50,3.6,Cash
+1846,C346,Customer_346,Madurai,KFC,Chicken Bucket,10,2026-01-21,815,52,3.9,Cash
+1847,C347,Customer_347,Coimbatore,Burger King,Veg Whopper,0,2026-09-07,377,25,4.6,Cash
+1848,C348,Customer_348,Madurai,Burger King,Chicken Whopper,25,2026-09-10,740,43,4.7,Card
+1849,C349,Customer_349,Coimbatore,Dominos,Margherita Pizza,10,2026-04-13,901,26,3.9,UPI
+1850,C350,Customer_350,Salem,Dominos,Margherita Pizza,10,2026-06-11,1209,52,4.4,Cash
+1851,C351,Customer_351,Salem,Pizza Hut,Cheese Pizza,20,2026-10-06,976,30,4.6,UPI
+1852,C352,Customer_352,Salem,Burger King,Veg Whopper,20,2026-07-17,658,50,3.5,Cash
+1853,C353,Customer_353,Coimbatore,Burger King,Veg Whopper,15,2026-10-13,1488,57,3.8,Card
+1854,C354,Customer_354,Salem,KFC,Hot Wings,0,2026-06-02,559,37,4.2,Cash
+1855,C355,Customer_355,Erode,KFC,Zinger Burger,25,2026-12-25,691,31,3.6,Cash
+1856,C356,Customer_356,Chennai,McDonalds,McVeggie,20,2026-10-12,649,31,4.7,UPI
+1857,C357,Customer_357,Chennai,Subway,Veg Sub,15,2026-07-02,464,54,3.9,Cash
+1858,C358,Customer_358,Madurai,Dominos,Farmhouse Pizza,15,2026-01-28,555,50,4.1,Cash
+1859,C359,Customer_359,Madurai,Subway,Chicken Sub,25,2026-06-10,828,32,3.7,Cash
+1860,C360,Customer_360,Trichy,Burger King,Chicken Whopper,10,2026-02-17,1079,30,4.9,Cash
+1861,C361,Customer_361,Salem,McDonalds,McChicken Burger,5,2027-01-01,335,38,4.9,Cash
+1862,C362,Customer_362,Trichy,Subway,Chicken Sub,10,2026-01-23,1366,37,4.9,Cash
+1863,C363,Customer_363,Madurai,Dominos,Veg Extravaganza,0,2026-01-02,204,51,3.8,UPI
+1864,C364,Customer_364,Coimbatore,KFC,Chicken Bucket,20,2026-03-12,1020,26,4.2,Cash
+1865,C365,Customer_365,Erode,Dominos,Farmhouse Pizza,25,2026-09-03,573,38,4.5,UPI
+1866,C366,Customer_366,Chennai,Subway,Veg Sub,25,2026-07-22,530,26,3.8,Card
+1867,C367,Customer_367,Salem,Dominos,Veg Extravaganza,5,2026-01-04,1418,59,3.8,Cash
+1868,C368,Customer_368,Trichy,Pizza Hut,Pepperoni Pizza,20,2026-07-12,808,24,4.8,Card
+1869,C369,Customer_369,Madurai,Burger King,Whopper Burger,20,2026-11-12,597,36,3.5,Card
+1870,C370,Customer_370,Chennai,Subway,Veg Sub,0,2026-09-14,739,44,3.8,UPI
+1871,C371,Customer_371,Chennai,Dominos,Veg Extravaganza,25,2026-03-13,709,30,4.6,Cash
+1872,C372,Customer_372,Erode,McDonalds,McVeggie,0,2026-10-20,1251,27,4.2,UPI
+1873,C373,Customer_373,Madurai,KFC,Chicken Bucket,25,2026-09-06,1234,29,3.9,Card
+1874,C374,Customer_374,Erode,KFC,Hot Wings,5,2026-08-09,1303,30,3.9,Cash
+1875,C375,Customer_375,Erode,Burger King,Whopper Burger,10,2026-10-31,684,21,4.3,Card
+1876,C376,Customer_376,Erode,McDonalds,Big Mac Burger,25,2026-03-06,1046,35,4.3,Cash
+1877,C377,Customer_377,Trichy,Dominos,Veg Extravaganza,5,2026-01-15,851,45,3.6,Card
+1878,C378,Customer_378,Madurai,Dominos,Veg Extravaganza,25,2026-07-27,1211,49,4.3,Card
+1879,C379,Customer_379,Trichy,Dominos,Veg Extravaganza,5,2026-11-30,559,55,3.9,Cash
+1880,C380,Customer_380,Salem,McDonalds,Big Mac Burger,25,2026-12-07,991,16,4.7,Cash
+1881,C381,Customer_381,Coimbatore,McDonalds,McVeggie,20,2026-04-16,1178,50,3.7,UPI
+1882,C382,Customer_382,Erode,Pizza Hut,Cheese Pizza,15,2026-01-29,323,33,4.0,Cash
+1883,C383,Customer_383,Madurai,KFC,Hot Wings,15,2026-08-29,277,50,3.8,Card
+1884,C384,Customer_384,Coimbatore,Subway,Paneer Sub,25,2026-05-08,521,32,4.4,Cash
+1885,C385,Customer_385,Erode,Burger King,Veg Whopper,0,2026-12-03,936,42,4.3,Card
+1886,C386,Customer_386,Chennai,Pizza Hut,Pepperoni Pizza,5,2026-09-22,1419,43,4.4,Card
+1887,C387,Customer_387,Salem,Dominos,Margherita Pizza,15,2026-07-24,744,27,4.5,Card
+1888,C388,Customer_388,Trichy,Burger King,Chicken Whopper,10,2026-11-01,969,49,4.3,UPI
+1889,C389,Customer_389,Salem,Burger King,Whopper Burger,15,2026-07-17,738,54,4.8,UPI
+1890,C390,Customer_390,Madurai,KFC,Chicken Bucket,0,2026-04-19,906,26,3.8,Card
+1891,C391,Customer_391,Salem,Burger King,Whopper Burger,25,2026-01-08,1056,33,3.7,Cash
+1892,C392,Customer_392,Erode,KFC,Zinger Burger,20,2026-04-08,451,36,4.5,UPI
+1893,C393,Customer_393,Erode,McDonalds,McVeggie,0,2026-11-06,590,26,4.0,Cash
+1894,C394,Customer_394,Chennai,KFC,Hot Wings,15,2026-02-26,868,52,4.4,Cash
+1895,C395,Customer_395,Chennai,McDonalds,Big Mac Burger,25,2026-12-19,1230,34,4.1,Card
+1896,C396,Customer_396,Salem,Pizza Hut,Cheese Pizza,10,2026-03-11,730,32,4.4,UPI
+1897,C397,Customer_397,Chennai,Pizza Hut,Cheese Pizza,15,2026-02-17,1105,60,3.7,UPI
+1898,C398,Customer_398,Coimbatore,McDonalds,McChicken Burger,10,2026-06-02,608,37,4.5,UPI
+1899,C399,Customer_399,Erode,Subway,Veg Sub,20,2026-11-26,413,42,3.8,Cash
+1900,C400,Customer_400,Trichy,Burger King,Chicken Whopper,5,2026-03-09,1355,57,3.6,Card
+1901,C401,Customer_401,Trichy,Dominos,Farmhouse Pizza,10,2026-11-23,319,57,4.8,Cash
+1902,C402,Customer_402,Salem,KFC,Hot Wings,10,2026-02-17,546,57,3.8,UPI
+1903,C403,Customer_403,Erode,Subway,Veg Sub,20,2026-11-10,1455,60,4.4,UPI
+1904,C404,Customer_404,Madurai,Subway,Paneer Sub,25,2026-01-31,1308,30,4.3,UPI
+1905,C405,Customer_405,Salem,Subway,Paneer Sub,15,2026-04-01,265,47,4.4,Card
+1906,C406,Customer_406,Salem,McDonalds,McChicken Burger,10,2026-07-17,1096,46,4.2,Cash
+1907,C407,Customer_407,Chennai,Subway,Paneer Sub,0,2026-12-13,1275,36,3.9,UPI
+1908,C408,Customer_408,Madurai,Dominos,Margherita Pizza,15,2026-04-11,998,49,4.4,Card
+1909,C409,Customer_409,Chennai,KFC,Hot Wings,0,2026-11-11,536,41,4.2,Cash
+1910,C410,Customer_410,Trichy,Subway,Veg Sub,5,2026-01-24,1360,54,4.1,Cash
+1911,C411,Customer_411,Madurai,Burger King,Whopper Burger,5,2026-04-26,1018,36,3.8,Cash
+1912,C412,Customer_412,Coimbatore,Pizza Hut,Pepperoni Pizza,20,2026-02-09,613,37,5.0,Card
+1913,C413,Customer_413,Salem,Subway,Chicken Sub,15,2026-10-31,826,42,3.9,Cash
+1914,C414,Customer_414,Trichy,KFC,Chicken Bucket,20,2026-10-18,474,57,4.7,UPI
+1915,C415,Customer_415,Salem,Burger King,Veg Whopper,5,2026-04-24,1099,21,3.5,UPI
+1916,C416,Customer_416,Coimbatore,Burger King,Chicken Whopper,25,2026-08-25,580,54,4.4,UPI
+1917,C417,Customer_417,Coimbatore,Subway,Paneer Sub,0,2026-11-27,442,50,3.7,UPI
+1918,C418,Customer_418,Madurai,Burger King,Veg Whopper,20,2026-01-29,416,44,4.8,UPI
+1919,C419,Customer_419,Coimbatore,Burger King,Chicken Whopper,15,2026-03-06,836,44,3.6,Card
+1920,C420,Customer_420,Salem,Burger King,Chicken Whopper,0,2026-11-28,366,42,4.1,UPI
+1921,C421,Customer_421,Coimbatore,Pizza Hut,Veggie Pizza,20,2026-03-28,1379,46,4.2,Cash
+1922,C422,Customer_422,Erode,Subway,Chicken Sub,15,2026-05-31,1146,44,3.9,Cash
+1923,C423,Customer_423,Chennai,Burger King,Whopper Burger,0,2026-05-22,228,43,5.0,Cash
+1924,C424,Customer_424,Chennai,KFC,Zinger Burger,20,2026-06-04,497,20,4.9,UPI
+1925,C425,Customer_425,Salem,Burger King,Chicken Whopper,5,2026-03-29,1034,25,4.8,Card
+1926,C426,Customer_426,Coimbatore,McDonalds,McVeggie,5,2026-10-13,675,41,4.0,UPI
+1927,C427,Customer_427,Trichy,Subway,Veg Sub,5,2026-11-20,798,18,3.7,Cash
+1928,C428,Customer_428,Salem,Subway,Paneer Sub,20,2026-01-03,1260,17,3.8,Cash
+1929,C429,Customer_429,Erode,Dominos,Farmhouse Pizza,25,2026-08-05,1488,24,4.9,Card
+1930,C430,Customer_430,Trichy,KFC,Hot Wings,15,2026-10-13,1500,32,3.7,Cash
+1931,C431,Customer_431,Salem,McDonalds,McChicken Burger,25,2026-09-27,326,33,3.6,Card
+1932,C432,Customer_432,Salem,McDonalds,McVeggie,20,2026-08-19,762,60,3.6,Cash
+1933,C433,Customer_433,Coimbatore,McDonalds,McChicken Burger,5,2026-05-24,1203,31,4.6,UPI
+1934,C434,Customer_434,Madurai,KFC,Zinger Burger,15,2026-03-25,1457,41,4.2,UPI
+1935,C435,Customer_435,Erode,Pizza Hut,Veggie Pizza,0,2026-09-17,1008,39,3.8,Cash
+1936,C436,Customer_436,Salem,KFC,Hot Wings,5,2026-08-22,919,37,4.8,Cash
+1937,C437,Customer_437,Coimbatore,Dominos,Margherita Pizza,10,2026-06-08,236,58,3.9,Card
+1938,C438,Customer_438,Trichy,McDonalds,McChicken Burger,25,2026-12-28,370,60,4.6,Card
+1939,C439,Customer_439,Trichy,Pizza Hut,Pepperoni Pizza,5,2026-11-02,960,54,4.1,UPI
+1940,C440,Customer_440,Erode,KFC,Hot Wings,25,2026-03-31,654,57,3.7,UPI
+1941,C441,Customer_441,Chennai,Dominos,Veg Extravaganza,25,2026-04-29,286,41,4.8,Card
+1942,C442,Customer_442,Trichy,KFC,Hot Wings,0,2026-08-27,1497,53,3.8,UPI
+1943,C443,Customer_443,Salem,Burger King,Chicken Whopper,0,2026-01-19,584,37,3.6,Cash
+1944,C444,Customer_444,Chennai,Burger King,Chicken Whopper,10,2026-07-20,796,25,4.4,Card
+1945,C445,Customer_445,Erode,McDonalds,McChicken Burger,5,2026-04-23,444,39,3.7,Card
+1946,C446,Customer_446,Erode,McDonalds,McVeggie,20,2026-07-02,307,48,3.6,Card
+1947,C447,Customer_447,Erode,McDonalds,McChicken Burger,20,2026-05-04,824,48,4.8,Card
+1948,C448,Customer_448,Erode,Burger King,Veg Whopper,5,2026-03-18,1299,21,4.9,Cash
+1949,C449,Customer_449,Trichy,KFC,Chicken Bucket,25,2026-06-04,1090,42,4.9,Card
+1950,C450,Customer_450,Trichy,Burger King,Chicken Whopper,25,2026-11-25,949,34,4.2,UPI
+1951,C451,Customer_451,Erode,Pizza Hut,Cheese Pizza,0,2026-10-23,453,34,4.4,UPI
+1952,C452,Customer_452,Salem,Subway,Veg Sub,5,2026-07-05,1117,38,4.5,Card
+1953,C453,Customer_453,Coimbatore,KFC,Hot Wings,0,2026-03-08,1201,36,4.3,Card
+1954,C454,Customer_454,Salem,Dominos,Margherita Pizza,5,2026-09-12,1131,58,4.3,Card
+1955,C455,Customer_455,Erode,Dominos,Veg Extravaganza,5,2026-02-07,822,15,4.4,Card
+1956,C456,Customer_456,Erode,KFC,Hot Wings,5,2026-04-21,467,50,4.4,UPI
+1957,C457,Customer_457,Trichy,Burger King,Whopper Burger,5,2026-07-01,314,38,3.5,Cash
+1958,C458,Customer_458,Madurai,Subway,Paneer Sub,0,2026-01-18,1117,23,4.1,Cash
+1959,C459,Customer_459,Salem,McDonalds,Big Mac Burger,20,2026-01-20,577,29,4.4,Card
+1960,C460,Customer_460,Salem,Burger King,Chicken Whopper,10,2026-04-05,273,52,3.7,UPI
+1961,C461,Customer_461,Salem,McDonalds,McVeggie,0,2026-12-13,873,23,4.7,UPI
+1962,C462,Customer_462,Erode,McDonalds,McChicken Burger,10,2026-10-17,223,51,4.9,Cash
+1963,C463,Customer_463,Erode,McDonalds,McVeggie,5,2026-01-08,1319,56,4.6,Cash
+1964,C464,Customer_464,Erode,McDonalds,Big Mac Burger,25,2026-01-06,1204,50,3.8,Card
+1965,C465,Customer_465,Erode,Burger King,Veg Whopper,25,2026-10-10,1079,46,4.9,Card
+1966,C466,Customer_466,Salem,Pizza Hut,Veggie Pizza,0,2026-02-20,668,35,3.8,Cash
+1967,C467,Customer_467,Erode,Burger King,Chicken Whopper,0,2026-10-31,921,29,4.7,Cash
+1968,C468,Customer_468,Madurai,Pizza Hut,Pepperoni Pizza,25,2026-01-27,1085,52,4.6,Card
+1969,C469,Customer_469,Erode,Subway,Paneer Sub,25,2026-02-07,411,36,4.8,Card
+1970,C470,Customer_470,Madurai,Pizza Hut,Pepperoni Pizza,25,2026-03-31,1058,60,4.2,UPI
+1971,C471,Customer_471,Erode,Dominos,Veg Extravaganza,5,2026-04-12,575,57,3.6,Cash
+1972,C472,Customer_472,Trichy,Subway,Chicken Sub,20,2026-01-14,383,27,4.2,Card
+1973,C473,Customer_473,Madurai,Dominos,Farmhouse Pizza,15,2026-05-02,1125,22,3.6,UPI
+1974,C474,Customer_474,Salem,KFC,Chicken Bucket,15,2026-11-19,1201,43,4.0,Cash
+1975,C475,Customer_475,Madurai,KFC,Chicken Bucket,15,2026-12-22,945,38,3.6,Cash
+1976,C476,Customer_476,Madurai,Subway,Chicken Sub,25,2026-10-13,215,27,3.9,Card
+1977,C477,Customer_477,Chennai,Dominos,Margherita Pizza,15,2026-06-16,955,58,4.4,Card
+1978,C478,Customer_478,Trichy,Pizza Hut,Veggie Pizza,25,2026-02-26,1330,17,4.8,UPI
+1979,C479,Customer_479,Salem,McDonalds,McChicken Burger,10,2026-12-27,698,18,4.0,Card
+1980,C480,Customer_480,Chennai,Burger King,Veg Whopper,10,2026-09-22,370,34,3.6,Card
+1981,C481,Customer_481,Chennai,KFC,Hot Wings,0,2026-10-01,260,27,4.7,UPI
+1982,C482,Customer_482,Erode,McDonalds,Big Mac Burger,20,2026-07-19,1040,47,5.0,Cash
+1983,C483,Customer_483,Trichy,Pizza Hut,Veggie Pizza,10,2026-07-13,1096,33,4.3,UPI
+1984,C484,Customer_484,Erode,KFC,Hot Wings,10,2026-10-05,394,46,5.0,Card
+1985,C485,Customer_485,Chennai,Subway,Chicken Sub,0,2026-02-13,1208,58,3.6,UPI
+1986,C486,Customer_486,Trichy,Burger King,Whopper Burger,5,2026-09-20,341,40,4.3,Cash
+1987,C487,Customer_487,Coimbatore,Pizza Hut,Veggie Pizza,20,2026-08-01,556,41,4.4,Card
+1988,C488,Customer_488,Trichy,KFC,Hot Wings,10,2026-11-10,1264,15,4.7,Cash
+1989,C489,Customer_489,Coimbatore,McDonalds,McVeggie,10,2026-03-16,621,44,3.6,Card
+1990,C490,Customer_490,Trichy,Dominos,Veg Extravaganza,0,2026-01-27,336,46,3.7,Card
+1991,C491,Customer_491,Madurai,Burger King,Whopper Burger,25,2026-01-28,1050,25,3.6,Card
+1992,C492,Customer_492,Salem,Pizza Hut,Pepperoni Pizza,20,2026-12-01,590,28,4.4,UPI
+1993,C493,Customer_493,Chennai,KFC,Chicken Bucket,15,2026-11-18,235,40,4.4,Card
+1994,C494,Customer_494,Chennai,McDonalds,McChicken Burger,10,2026-09-30,895,55,3.6,Card
+1995,C495,Customer_495,Salem,KFC,Chicken Bucket,25,2026-01-14,1198,58,4.9,UPI
+1996,C496,Customer_496,Madurai,KFC,Hot Wings,20,2026-07-30,1445,22,3.9,Card
+1997,C497,Customer_497,Madurai,Dominos,Margherita Pizza,0,2026-10-10,205,59,4.6,Card
+1998,C498,Customer_498,Salem,Pizza Hut,Cheese Pizza,10,2026-10-27,1022,18,4.8,Cash
+1999,C499,Customer_499,Chennai,McDonalds,Big Mac Burger,0,2026-03-24,1114,18,4.4,Card
+2000,C500,Customer_500,Salem,Subway,Chicken Sub,0,2026-09-28,544,60,4.9,Cash
